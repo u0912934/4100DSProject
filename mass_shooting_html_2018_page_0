@@ -244,7 +244,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div id="block-gva-general-footer-address" class="block block-gva-general">
 <div class="address-items row"><div class="small-6 columns"><p>1133 Connecticut Avenue, NW<br />
 Washington, DC 20036<br />
-<a href="/cdn-cgi/l/email-protection#aac3c4dbdfc3d8d3eacddccb84dfd984c9c5c7"><span class="__cf_email__" data-cfemail="e48d8a95918d969da4839285ca9197ca878b89">[email&#160;protected]</span></a></p>
+<a href="/cdn-cgi/l/email-protection#aac3c4dbdfc3d8d3eacddccb84dfd984c9c5c7"><span class="__cf_email__" data-cfemail="9af3f4ebeff3e8e3dafdecfbb4efe9b4f9f5f7">[email&#160;protected]</span></a></p>
 </div>
 <div class="small-6 columns"><p>© Copyright 2021<br />
 Gun Violence Archive<br />
@@ -290,5 +290,5 @@ All rights reserved.</p>
 <div class="overlay"></div>
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/compiled/default-foot.js?qpfau1"></script>
 <script async type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59e622109a756114"></script>
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'63e881b4cbb427e8',m:'a9266bede2941122011fbc553f38b542b6471298-1618189110-1800-ASa9XijOOTZq/lFr5yqvVKyDN1/HEzmaIIY+pUP4C4Nn3+VaeULrJcE7BhcqY4DFFjC0gvWWMJ/XtUHYIKBF499m7WEUOG1CK5NpesBn35gvqA7FKxzlxAEv3xtyL1LBizK7ohBekVzCq0V+WjoP0OXlbDKpOVN1KkP2UhYjx2zt',s:[0xe049a6a4b0,0x8971a579d3],}})();</script></body>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'63e87bfcae9727dc',m:'14b33187ebc4b2105ec127be700426a3c0aa084b-1618188876-1800-AUFXbQZXlTTlh/djNksmS+b00b9QefLQPKI5QvuRSbB/ZlraxDTckSWDW3OId4JAizO2kZ0sB9FNBr+JO8X+IRNg19B4wTs1dxzphtQfgV1qryV5LeNy0dVq0gEfgHg0d2eq841PyBqhTL47O21HhMzQv4fShdHAV5xUTmCr0Dfi',s:[0xf3ff6ecc77,0xc4d7b53cfa],}})();</script></body>
 </html>
