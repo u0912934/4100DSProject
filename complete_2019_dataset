@@ -1,0 +1,418 @@
+,ID,Date,State,City/County,Address,Killed,Injured,Source
+0,1582816,"December 29, 2019",Illinois,Danville,1803 block of Westview Ave,0,5,http://www.vermilioncountyfirst.com/2019/12/29/5-women-shot-at-danville-home/
+1,1582197,"December 29, 2019",New York,Buffalo,50 block of Henrietta Ave,1,3,https://www.wkbw.com/news/local-news/4-shot-1-seriously-injured-in-riverside-early-sunday
+2,1583444,"December 29, 2019",California,Ceres,800 block of Allacante Dr,0,5,https://www.modbee.com/news/local/crime/article238828443.html
+3,1581590,"December 27, 2019",California,Modesto,1900 block of Vernon Ave,1,3,https://www.modbee.com/news/local/crime/article238841643.html
+4,1581476,"December 27, 2019",Georgia,Kennesaw,1575 Ridenour Pkwy NW,0,4,https://www.11alive.com/article/news/crime/kennesaw-area-shooting-apartment/85-e07c79a0-0881-466e-aa1b-7214148e85e6
+5,1581103,"December 27, 2019",Texas,Houston,500 block of Smart St,2,7,https://www.chron.com/news/houston-texas/houston/article/Houston-rapper-recovering-deadly-attack-shooting-14938220.php
+6,1580308,"December 26, 2019",Florida,Saint Petersburg,4300 6th St S,0,5,https://www.tampabay.com/news/st-petersburg/2019/12/26/eight-injured-as-shots-are-fired-outside-nightclub-in-st-petersburg/
+7,1579889,"December 25, 2019",California,Oakland,2100 block of 34th Ave,0,4,https://abc7news.com/quadruple-shooting-at-holiday-party-in-oakland/5787156/
+8,1579970,"December 25, 2019",Iowa,Coralville,954 Boston Way,1,3,https://www.kcrg.com/2020/07/08/brothers-now-jailed-in-johnson-county-as-new-details-come-out-in-christmas-morning-fatal-shooting/
+9,1579856,"December 25, 2019",Virginia,Richmond,1800 E Main St,1,3,https://wtvr.com/2019/12/25/kenneth-lawson-obit/
+10,1579266,"December 24, 2019",Louisiana,New Orleans,6400 block of General Meyer Ave,0,4,https://www.fox8live.com/2019/12/24/nopd-injured-west-bank-shooting/
+11,1594317,"December 24, 2019",Illinois,Joliet,1200 block of Cutter Ave,0,5,https://www.theherald-news.com/2020/01/10/joliet-police-investigate-2-shooting-incidents-from-christmas-eve/ackuaoh/
+12,1579220,"December 24, 2019",North Carolina,High Point,1226 Montlieu Ave,0,6,https://www.wfmynews2.com/article/news/crime/high-point-christmas-eve-shooting/83-b6162806-83a0-4151-af25-9d0826c10883
+13,1577577,"December 22, 2019",Maryland,Baltimore,225 Park Ave,0,7,https://baltimore.cbslocal.com/2019/12/22/baltimore-seven-people-shot-park-avenue/
+14,1577688,"December 22, 2019",Minnesota,Minneapolis (Spring Lake Park),8407 Plaza Blvd NE,1,7,http://www.startribune.com/multiple-people-injured-after-shooting-in-spring-lake-park/566415522/
+15,1577518,"December 22, 2019",Illinois,Chicago,5700 block of S May St,0,13,https://chicago.suntimes.com/2020/10/30/21529153/englewood-mass-shooting-straw-gun-purchase-eagle-sports-range-oak-forest
+16,1578711,"December 21, 2019",Louisiana,Edgard,2555 LA-18,0,4,https://www.wdsu.com/article/1-sought-1-arrested-in-connection-with-shooting-at-party-held-at-west-st-john-elementary/30394324
+17,1577046,"December 20, 2019",Mississippi,Waynesboro,Turner St,1,6,https://www.leader-call.com/news/murder-suspects-jailed-in-laurel-waybo-gang-war/article_926b5a38-3d5a-11ea-ba83-b336b6c1ce63.html
+18,1577438,"December 20, 2019",Alabama,Tuskegee,2900 block of Davison St,2,2,https://www.wrbl.com/news/two-killed-and-two-injured-in-deadly-tuskegee-shooting/
+19,1575175,"December 18, 2019",Texas,San Antonio,2418 SW Military Dr,0,4,https://www.mysanantonio.com/news/local/article/Police-arrest-two-more-for-South-Park-Mall-14940870.php
+20,1573754,"December 17, 2019",Montana,Great Falls,1701 10th Ave S,4,1,https://www.greatfallstribune.com/story/news/2019/12/18/name-man-believed-involved-great-falls-triple-homicide-released/2687840001/
+21,1572275,"December 15, 2019",Georgia,Columbus,600 block of 32nd St,1,4,https://www.wtvm.com/2019/12/15/quadruple-shooting-nd-st-columbus-leaves-one-man-dead/
+22,1573471,"December 14, 2019",California,Ivanhoe,15700 block of Paradise Ave,0,4,https://www.visaliatimesdelta.com/story/news/2019/12/15/video-four-tulare-county-teenagers-shot-suspect-loose/2657935001/
+23,1571348,"December 12, 2019",Missouri,Saint Louis (Moline Acres),9900 block of Lewis and Clark Blvd,1,3,https://www.kmov.com/news/man-charged-in-moline-acres-quadruple-shooting-that-killed-/article_aa2d3e86-1d9b-11ea-9e91-d77ad603baf2.html
+24,1568230,"December 10, 2019",New Jersey,Jersey City,223 Martin Luther King Dr,6,3,https://www.app.com/story/news/crime/jersey-mayhem/2019/12/11/jersey-city-shooting-may-worst-anti-semitic-incident-new-jersey/4020789002/
+25,1567932,"December 8, 2019",Texas,Desoto,200 block of W Wintergreen Rd,2,3,https://www.nbcdfw.com/news/local/2-Dead-3-Injured-in-DeSoto-Shooting-Sunday-565991941.html
+26,1567231,"December 8, 2019",Louisiana,New Orleans,3801 Washington Ave,1,4,https://www.nola.com/news/crime_police/article_34405f1a-1b65-11ea-a08a-1bd1c15368ae.html
+27,1565216,"December 6, 2019",Florida,Pensacola,280 Taylor Rd,4,8,https://www.pnj.com/story/news/2019/12/09/nas-pensacola-shooting-victims-5-released-hospital-3-stable-condition/2631821001/
+28,1564524,"December 4, 2019",Alabama,Montgomery,500 Eastdale Rd S,2,2,https://www.alabamanews.net/2019/12/05/two-killed-in-fatal-wednesday-night-montgomery-shooting-identified/
+29,1562043,"December 1, 2019",Louisiana,Cotton Valley,116 Hawthorne Loop,2,3,https://www.ktbs.com/news/crime/suspect-and-victims-identified-in-cotton-valley-shooting/article_fbff9906-1469-11ea-ae66-db420cbb636d.html
+30,1561966,"December 1, 2019",Louisiana,New Orleans,2000 block of N Dorgenois St,2,2,https://www.wwltv.com/article/news/local/2-dead-2-wounded-in-seventh-ward-shooting-nopd-says/289-bf457154-d5c4-40e2-bb20-6c3a5cc35127
+31,1561813,"December 1, 2019",Illinois,Aurora,700 block of S 5th St,1,4,https://chicago.suntimes.com/crime/2019/12/3/20993456/juanya-booker-aurora-shooting-3-5th-street-jasmine-noble
+32,1562685,"December 1, 2019",Michigan,Kalamazoo,6300 block of Proctor St,1,3,https://wwmt.com/news/local/35-year-old-charged-with-murder-after-3-officers-shot-and-man-killed-during-home-invasion
+33,1561734,"December 1, 2019",Louisiana,New Orleans,700 block of Canal St,0,12,https://www.nola.com/news/crime_police/article_60266a18-1c26-11ea-98b4-d3530300091a.html
+34,1561398,"November 30, 2019",Arkansas,Hensley,6500 block of E Sardis Rd,0,5,https://katv.com/news/local/sheriffs-deputies-release-names-of-five-people-shot-in-saline-county
+35,1560645,"November 29, 2019",Texas,Amarillo,2650 Dumas Dr,0,7,https://abc7amarillo.com/news/local/apd-investigating-shooting-that-injured-7-one-with-life-threatening-injuries
+36,1559257,"November 27, 2019",New York,Bronx,E 153rd St and Courtlandt Ave,0,5,https://www.nydailynews.com/new-york/nyc-crime/ny-cops-arrest-teen-gunman-bronx-shooting-20200429-iu756vthezbr5jnqwaiqdpigcm-story.html
+37,1558067,"November 25, 2019",Florida,Brownsville,NW 29th Ave and 44th St,2,2,https://www.local10.com/news/2019/11/26/police-search-for-additional-gunmen-after-deadly-miami-dade-double-shooting/
+38,1557006,"November 24, 2019",Alabama,Birmingham,7 15th St W,1,4,https://www.al.com/news/2019/11/he-died-a-hero-birmingham-homicide-victim-fatally-shot-while-protecting-others.html
+39,1556633,"November 24, 2019",California,Los Angeles,100 block of E 11th St,0,6,https://ktla.com/2019/11/24/6-injured-after-shooter-opens-fire-at-downtown-l-a-warehouse-party/
+40,1556984,"November 24, 2019",Louisiana,Cottonport,3846 LA-29,2,2,https://www.kalb.com/content/news/Juvenile-charged-in-Cottonport-fatal-shooting-transferred-to-adult-court-565492272.html
+41,1555879,"November 23, 2019",California,Los Angeles,833 S Spring St,0,4,https://ktla.com/2019/11/23/4-injured-after-man-fires-at-crowd-during-fight-at-downtown-l-a-party/
+42,1556002,"November 23, 2019",Louisiana,Tallulah,Depot St,1,6,https://www.klfy.com/louisiana/police-lake-providence-man-wanted-on-murder-charges-arrested-in-monroe-drug-sting/
+43,1555135,"November 21, 2019",California,Long Beach,1100 block of 10th St,0,5,https://ktla.com/2019/11/22/5-injured-in-late-night-shooting-in-long-beach-perpetrator-sought/
+44,1554807,"November 21, 2019",Washington,Everett,120 West Casino Rd,0,4,https://www.heraldnet.com/news/suspect-in-quadruple-shooting-in-everett-arrested-in-texas/
+45,1554446,"November 20, 2019",California,Richmond,20th St and Roosevelt Ave,0,4,https://www.eastbaytimes.com/2019/11/21/four-shot-in-richmond-victims-expected-to-survive/
+46,1552068,"November 18, 2019",New Jersey,Newark,139 S 8th St,1,4,https://www.rlsmedia.com/article/update-49-year-old-man-returning-home-work-killed-roving-gun-battle-newark
+47,1551531,"November 17, 2019",California,Fresno,5361 E Lamona Ave,4,6,https://www.turnto23.com/news/state/4-men-charged-in-deadly-shooting-at-fresno-football-watch-party
+48,1551162,"November 17, 2019",Ohio,Cleveland,7100 block of Lawn Ave,0,4,https://www.cleveland.com/metro/2019/11/drive-by-shooting-on-clevelands-west-side-wounds-4-people-police-say.html
+49,1550546,"November 16, 2019",California,San Diego,2152 Flintridge Dr,6,0,https://www.sandiegouniontribune.com/news/public-safety/story/2019-11-24/fourth-boy-dies-in-paradise-hills-murder-suicide-shooting
+50,1548689,"November 14, 2019",California,Santa Clarita,21900 Centurion Way,3,3,https://lasvegassun.com//news/2020/nov/14/my-daughter-died-in-a-ghost-gun-shooting-its-time/
+51,1547021,"November 11, 2019",Florida,Belle Glade,SW 7th St,0,4,https://cbs12.com/news/local/several-people-shot-in-belle-glade?fbclid=IwAR1IpLsShw3Qc8iUNr-XF9aV9rj-rWMOaf8alWl-vHOW1i4i87hVPzXfjbk
+52,1546102,"November 10, 2019",Missouri,Kansas City,4704 Independence Ave,0,4,https://www.kctv5.com/news/local_news/kcmo-police-investigating-after-shot-at-adult-nightclub-overnight/article_b39636b2-03c4-11ea-8279-737be67efc37.html
+53,1546038,"November 10, 2019",Tennessee,Memphis,2080 E. Brooks Rd,1,4,https://wreg.com/2019/11/10/10-people-shot-overnight-in-memphis-19-year-old-mom-killed/
+54,1546155,"November 10, 2019",Arkansas,Little Rock,3000 block of W 12th St,0,4,https://katv.com/news/local/4-shot-while-rap-music-video-being-filmed-little-rock-police-say
+55,1545955,"November 9, 2019",Michigan,Detroit,3800 block of E McNichols Rd,0,4,https://www.detroitnews.com/story/news/local/detroit-city/2019/11/10/police-7-shot-overnight-detroit-including-4-east-side-drive/2555448001/
+56,1546508,"November 9, 2019",Georgia,Vidalia,Wiggins St,0,4,https://www.wtoc.com/2019/11/19/police-arrest-looking-third-suspect-shooting-that-injured-vidalia/
+57,1545027,"November 8, 2019",North Carolina,Raleigh,503 Bragg St,1,3,https://www.cbs17.com/news/local-news/wake-county-news/armed-and-dangerous-suspects-in-raleigh-moms-murder-caught-in-texas-police-say/
+58,1543835,"November 7, 2019",Georgia,Conyers,1800 block of Green St,2,3,https://www.11alive.com/article/news/crime/deputies-identified-after-rockdale-officer-involved-shooting/85-0ea4669d-87e6-44b2-bbd5-9eb84ed5b3b1
+59,1541774,"November 4, 2019",Texas,Houston,5000 block of Northridge Dr,1,4,https://www.khou.com/article/news/crime/police-investigating-deadly-shooting-in-east-houston/285-13d3ed69-4990-40c3-bc49-3faa5e5d6d24
+60,1540863,"November 3, 2019",Ohio,Toledo,600 block of Magnolia St,0,4,https://www.toledoblade.com/local/police-fire/2019/11/03/multiple-people-injured-in-shooting-at-after-hours-club/stories/20191103131
+61,1540841,"November 3, 2019",Texas,Nacogdoches,Sandyland Cir and CR 823,1,3,https://www.easttexasmatters.com/crime/nacogdoches-shooter-arraigned-on-more-charges-confesses-to-police-that-he-was-the-killer/
+62,1540280,"November 2, 2019",Louisiana,Baton Rouge,137 Taylor St,0,4,https://www.wafb.com/2019/11/02/three-injured-shooting-near-highland-road/
+63,1540240,"November 2, 2019",Michigan,Detroit,7000 block of E. Kirby,1,4,https://www.wxyz.com/news/5-people-shot-leaving-1-dead-during-after-party-in-detroit
+64,1539572,"November 1, 2019",Arizona,Tolleson,2434 S 86th Ln,0,5,https://www.abc15.com/news/region-phoenix-metro/west-phoenix/multiple-people-shot-near-83rd-avenue-and-lower-buckeye-road
+65,1539557,"November 1, 2019",Texas,San Angelo,1616 S Chadbourne St,0,4,https://www.gosanangelo.com/story/news/crime/2019/11/01/san-angelo-man-arrested-connection-drive-shooting-club/4121836002/
+66,1539347,"October 31, 2019",California,Orinda,114 Lucille Way,5,3,https://www.actionnewsnow.com/content/news/4-men-arrested-in-deadly-California-Halloween-shooting-freed-565156392.html
+67,1537992,"October 30, 2019",Pennsylvania,Philadelphia,5026 Walton Ave,4,0,https://philadelphia.cbslocal.com/2019/10/30/neighbors-janet-woodson-among-four-family-members-killed-inside-west-philadelphia-home/
+68,1537044,"October 29, 2019",Maryland,Baltimore,4700 block of Liberty Heights Ave,1,3,https://baltimore.cbslocal.com/2019/10/29/northwest-baltimore-shootings-latest/
+69,1537672,"October 29, 2019",California,Long Beach,2709 E 7th St,3,9,https://mynewsla.com/crime/2020/09/08/lbpd-12-arrests-made-in-shooting-that-left-three-dead-nine-wounded/
+70,1536787,"October 28, 2019",Maryland,Baltimore,4160 Pimlico Rd,1,3,https://homicides.news.baltimoresun.com/victim/3574/
+71,1536706,"October 27, 2019",Michigan,Detroit,East Outer Dr and Helen St,0,4,https://www.clickondetroit.com/news/crime/4-men-shot-in-drive-by-on-detroit-s-east-side
+72,1535629,"October 27, 2019",Michigan,Lansing,Balfour Dr and W Miller Rd,1,4,https://www.detroitnews.com/story/news/local/michigan/2019/10/28/shooting-lansing-party-death/40452209/
+73,1535478,"October 26, 2019",Texas,Greenville,2275 US-380,2,6,https://www.nbcdfw.com/news/local/Accused-Greenville-Shooter-Released-After-Exculpatory-Evidence-Discovered-Sheriff-Says-564529501.html
+74,1534704,"October 24, 2019",Oklahoma,Oklahoma City,1900 block of NW 12th St,2,2,https://kfor.com/2019/10/25/one-dead-in-nw-oklahoma-city-quadruple-shooting/
+75,1533166,"October 22, 2019",Oklahoma,Oklahoma City (Midwest City),7020 E Green Ave,1,3,https://okcfox.com/news/local/4-people-shot-at-midwest-city-apartment-complex
+76,1531326,"October 21, 2019",South Carolina,Sumter,29 Wesmark Blvd,0,4,https://www.wltx.com/article/news/local/four-people-shot-in-sumter-south-carolina/101-cb5ddbf1-0d32-46a5-a92f-1a0c0709d24e
+77,1530965,"October 20, 2019",Texas,Port Arthur,1100 block of Vicksburg Ave,1,3,https://www.12newsnow.com/article/news/crime/one-dead-multiple-victims-in-overnight-shooting-in-port-arthur/502-30863973-993c-4d83-8be3-bfc6d1a525c7
+78,1530407,"October 19, 2019",Pennsylvania,Duquesne,600 block of Priscilla Ave,0,4,https://www.wtae.com/article/police-searching-for-two-suspects-after-man-shot-outside-mcdonalds-in-downtown-pittsburgh/29521376
+79,1530276,"October 19, 2019",Texas,El Paso,3812 Truman Ave,1,4,https://www.ktsm.com/local/el-paso-news/new-information-delays-hearing-for-murder-suspect/
+80,1527528,"October 15, 2019",Ohio,Columbus,1600 block of Manchester Ave,0,4,https://www.10tv.com/article/3-teens-one-man-injured-linden-shooting-2019-oct
+81,1525999,"October 13, 2019",Pennsylvania,Philadelphia,W Clearfield St and N 8th St,0,6,https://6abc.com/relatives-of-teens-struck-by-gunfire-in-multiple-shooting-speak-out/5618033/
+82,1526952,"October 13, 2019",Ohio,Akron,Main St,0,4,https://www.beaconjournal.com/news/20191014/one-woman-three-men-shot-in-incident-at-firestone-park-bar-in-akron
+83,1525062,"October 12, 2019",New York,Brooklyn,75 Utica Ave,4,3,https://www.nytimes.com/2019/10/13/nyregion/brooklyn-shooting-poker-club.html
+84,1525476,"October 12, 2019",Illinois,Chicago,6733 W Irving Park Rd,5,0,https://chicago.suntimes.com/crime/2019/10/14/20913488/krysztof-marek-murder-charges-dunning-apartment-shooting
+85,1525408,"October 12, 2019",Pennsylvania,Philadelphia,700 block of W Russell St,1,3,https://philadelphia.cbslocal.com/2019/10/12/police-north-philadelphia-gun-violence-deadly-shooting/
+86,1525628,"October 12, 2019",Maryland,Baltimore,800 block of W Lexington St,1,3,https://www.baltimoresun.com/news/crime/bs-md-ci-shootings-20191014-20191014-xjcb277nyzajljy5rkgrdc5r44-story.html
+87,1525265,"October 12, 2019",Michigan,Eastpointe,15163 E 10 Mile Rd,1,5,https://www.wxyz.com/news/man-injured-in-eastpointe-bar-shooting-has-died-family-sources-say
+88,1523606,"October 10, 2019",Florida,Tampa,5410 N Falkenburg Rd,2,2,https://www.baynews9.com/fl/tampa/news/2019/10/10/sheriff-s-office-investigating-double-homicide-at-east-tampa-mobile-home-park
+89,1524264,"October 10, 2019",Pennsylvania,Philadelphia,900 block of S 5th St,0,5,https://philadelphia.cbslocal.com/2019/10/11/5-men-shot-in-queen-village-courtyard-while-playing-game-of-dice-police-say/
+90,1522979,"October 9, 2019",Massachusetts,Lowell,149 Ennell Street,0,5,https://www.bostonglobe.com/metro/2019/10/09/five-students-shot-guns-lowell-school-two-injured/5wNvRfQQ9K89qmwU6KMBGJ/story.html?camp=bg:brief:rss:feedly&rss_id=feedly_rss_brief
+91,1523204,"October 9, 2019",Maryland,Baltimore,1600 block of W North Ave,1,3,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-quadruple-shooting-20191010-s5skwgt6ajd3pczsdr7kphobzm-story.html
+92,1521226,"October 7, 2019",Massachusetts,Abington,135 Centre Ave,5,0,https://www.bostonglobe.com/metro/2019/10/09/keep-hearing-deirdre-laugh-friend-abington-mom-killed-with-family-pens-heartfelt-tribute/Re0Oz5mzVhCzb84lwfpWCP/story.html?p1=Article_Feed_ContentQuery
+93,1520425,"October 6, 2019",Indiana,Evansville,1127 Chestnut St,0,5,https://www.wane.com/news/evansville-man-gets-43-years-for-shooting-5-outside-american-legion-post/
+94,1520499,"October 6, 2019",Colorado,Denver,7100 block of Ruth Way,0,4,https://www.thedenverchannel.com/news/local-news/4-people-shot-early-sunday-in-adams-county-sheriffs-office-says
+95,1520330,"October 6, 2019",Kansas,Kansas City,1013 Central Ave,4,5,https://www.ksnt.com/news/kansas/hugo-villanueva-morales-2nd-tequila-kc-shooting-suspect-captured-according-to-sources/
+96,1520547,"October 5, 2019",Missouri,Saint Louis,10035 Crown Point Dr,0,5,https://fox2now.com/2019/11/25/father-prays-for-healing-after-st-louis-police-officer-shot-at-high-school-reunion/
+97,1519090,"October 3, 2019",North Carolina,Roxboro,700 South Foushee St,1,3,https://www.cbs17.com/news/local-news/4-shot-1-killed-in-senseless-act-of-violence-in-roxboro-police-say/
+98,1518859,"October 3, 2019",Missouri,Marshall,S Olson Ave,1,3,https://fox4kc.com/2019/10/18/suspect-in-saline-county-shootings-arrested-in-mississippi/
+99,1517804,"October 1, 2019",Missouri,Saint Louis,Leonor K. Sullivan Blvd and Poplar St,0,4,https://fox2now.com/2019/10/02/police-st-louis-riverfront-shooting-leaves-two-hospitalized/
+100,1515312,"September 29, 2019",Illinois,Round Lake (Round Lake Park),500 block of Fairlawn Ave,1,3,https://www.dailyherald.com/news/20190929/one-dead-three-injured-after-shooting-erupts-at-round-lake-park-party
+101,1515242,"September 29, 2019",Wisconsin,Milwaukee,1500 block of N 29th St,0,4,https://fox6now.com/2019/09/29/4-women-shot-while-at-house-party-near-29th-and-cherry/
+102,1515128,"September 29, 2019",Florida,Jacksonville,2200 block of Clemente Dr,0,4,https://www.news4jax.com/news/local/jacksonville/four-people-shot-at-party-in-mixon-town
+103,1517360,"September 29, 2019",Kansas,Claflin,1500 block of NE 100th Rd,0,4,https://www.kwch.com/content/news/Barton-County-Sheriffs-Office-investigates-disturbance-with-shots-fired--561800401.html
+104,1515327,"September 29, 2019",Texas,Beaumont,4100 block of Highland Ave,4,0,https://www.12newsnow.com/article/news/crime/4-dead-after-sunday-shooting-in-beaumonts-south-end/502-0f244f5c-b96f-428e-929d-d74bc1e4cd90
+105,1511999,"September 24, 2019",Illinois,Chicago,2000 block of South Hoyne Ave,1,3,https://chicago.suntimes.com/crime/2019/9/24/20882917/boy-killed-3-wounded-in-heart-of-chicago-shooting
+106,1510411,"September 23, 2019",Indiana,Gary,1600 block of Connecticut St,2,2,https://www.nwitimes.com/news/local/crime-and-courts/suspect-in-homicides-of-police-officers-son-2nd-man-arrested-in-california-officials-say/article_32c7c290-4bef-5da9-a446-d52eeec805e8.html
+107,1509721,"September 22, 2019",Missouri,Kansas City,2111 Television Plaza,0,5,https://www.kansascity.com/news/local/crime/article235358867.html
+108,1509411,"September 21, 2019",Louisiana,New Orleans,Poland Ave and St. Claude Ave,0,4,https://www.nola.com/news/crime_police/article_e2b92e5a-dc90-11e9-851c-87474d1fa85f.amp.html?ff&utm_medium=nondesktop&utm_source=push&utm_campaign=tecnaviaapp&utm_content&utm_term&fbclid=IwAR3jkGYLpHYryZIp7h6E6JchS5qDwIELyRmKIrZQCnTcOdKnpHXqTxkXHDE
+109,1508804,"September 21, 2019",South Carolina,Lancaster,1399 Old Charlotte Rd,2,8,https://www.wltx.com/article/news/crime/man-wanted-for-lancaster-shooting-arrested/101-9ce9894b-c287-45f4-a8e3-0ecfcf11230e
+110,1509510,"September 21, 2019",Indiana,Indianapolis,101 W Maryland St,0,6,https://www.indystar.com/story/news/crime/2019/09/22/indianapolis-crime-6-people-shot-downtown-saturday-night/2410009001/
+111,1512486,"September 21, 2019",Ohio,Cleveland,3616 East 144th St,4,0,https://www.chicagotribune.com/sns-bc-oh--bodies-found-vacant-house-20190927-story.html
+112,1508859,"September 20, 2019",Louisiana,New Orleans,Canal Blvd and City Park Ave,1,5,https://www.nola.com/news/courts/article_482464a4-d83e-11ea-82fc-07d0b990b110.html
+113,1507939,"September 19, 2019",District of Columbia,Washington,1300 block of Columbia Rd NW,1,5,https://mpdc.dc.gov/release/homicide-1300-block-columbia-road-northwest-1
+114,1507156,"September 18, 2019",Illinois,Chicago,4200 block of W Madison St,3,1,https://chicago.cbslocal.com/2019/09/19/4-people-shot-in-west-garfield-park/
+115,1507092,"September 18, 2019",California,Wilmington,800 block of Bayview Ave,2,2,https://www.dailybreeze.com/2019/09/19/man-girl-killed-in-wilmington-shooting-identified-as-police-continue-search-for-suspect/
+116,1505354,"September 16, 2019",Wyoming,Cheyenne,3436 E 11th St,2,2,https://trib.com/news/local/crime-and-courts/cheyenne-shooting-suspect-released-from-custody-five-days-earlier/article_5fc6ec9e-0e8e-5356-8838-3c295b6cf29f.html
+117,1504030,"September 14, 2019",Missouri,Saint Louis,5200 block of Tennessee Ave,1,3,https://www.stltoday.com/news/local/crime-and-courts/fatally-shot-injured-in-south-st-louis/article_dfcde0ce-7866-58fa-9548-beecf2d724a6.html
+118,1504012,"September 14, 2019",California,Oakland,38th Ave and MacArthur Blvd,1,4,https://www.eastbaytimes.com/2019/09/18/man-charged-in-oakland-shooting-saturday-that-left-one-dead-four-wounded/
+119,1504387,"September 14, 2019",Georgia,Lagrange,1400 block of Elm St,0,4,https://www.ajc.com/news/crime--law/man-arrested-accused-shooting-people-lagrange/8K7j4g06dRXzkkxxHGMcfP/
+120,1503207,"September 12, 2019",New Mexico,Albuquerque,1919 Ladera Dr NW,1,4,https://www.kob.com/albuquerque-news/neighbors-detail-night-of-chaos-when-1-person-was-killed-and-3-others-were-injured/5491069/
+121,1503192,"September 12, 2019",New Mexico,Albuquerque,1028 Lura Pl SW,4,2,https://www.krqe.com/news/albuquerque-metro/apd-identifies-5-victims-killed-in-2-separate-shootings-thursday/
+122,1501350,"September 10, 2019",Illinois,Chicago,2200 block of W Maypole Ave,0,4,https://chicago.suntimes.com/crime/2019/9/11/20860375/4-shot-in-west-town-gun-violence-maypole
+123,1499460,"September 8, 2019",South Carolina,Sumter,1083 Broad St,2,2,https://www.wistv.com/2019/10/11/police-search-two-additional-men-wanted-deadly-shooting-that-killed-injured/
+124,1500098,"September 8, 2019",Louisiana,Alexandria,2900 block of Cypress St,1,3,https://www.thetowntalk.com/story/news/2019/09/09/alexandria-woman-charged-after-sunday-shooting-kills-1/2266641001/
+125,1499300,"September 7, 2019",North Carolina,Whiteville,Brittany Ln,3,1,https://www.wect.com/2020/02/26/arrests-made-columbus-county-triple-murders/
+126,1497702,"September 4, 2019",Louisiana,Marrero,3044 Sorbonne Dr,2,2,https://www.nola.com/news/crime_police/article_19d343ea-236c-11ea-907f-c7e6680a8547.html
+127,1497180,"September 4, 2019",Florida,Jacksonville,400 W 62nd St,0,4,https://www.jacksonville.com/news/20190904/3-adults-1-minor-injured-in-northside-jacksonville-shooting
+128,1494697,"September 2, 2019",North Carolina,Greensboro,5528 W Market St,2,2,https://www.wfmynews2.com/article/news/crime/greensboro-drives-away-shooting-scene-apartment-morehead/83-1ecb2ddf-1cdc-4e6e-b778-aa4fb83e59c4
+129,1495141,"September 2, 2019",Illinois,Chicago,6200 block of S King Dr,0,4,https://chicago.suntimes.com/crime/2019/9/3/20847061/4-shot-near-king-drive-green-line-station-in-washington-park
+130,1495192,"September 2, 2019",Alabama,Elkmont,25019 Ridge Road,5,0,https://www.cbs42.com/news/local/teen-accused-of-killing-5-in-family-to-be-charged-as-adult/
+131,1494113,"September 1, 2019",Connecticut,Hartford,80 Edgewood St,1,3,https://www.courant.com/breaking-news/hc-br-usher-hanns-third-murder-arrest-20200923-d76gsyg7ejf5tj6nawsuwye3bi-story.html
+132,1494669,"September 1, 2019",North Carolina,Rocky Mount,521 Country Club Road,0,4,http://www.rockymounttelegram.com/Police/2019/09/02/Four-wounded-in-shooting-outside-Moose-Club.html
+133,1494548,"September 1, 2019",Alabama,Valley,502 Boulevard,0,7,https://www.wtvm.com/2019/09/10/valley-police-arrest-man-connection-with-parking-lot-shooting-that-injured-seven/
+134,1493374,"September 1, 2019",Ohio,Toledo,3257 Stickney Ave,0,4,https://www.wtol.com/article/news/local/4shotinnorthtoledo/512-ce9fcb38-2bc5-4611-b3b0-96937467614b
+135,1492778,"August 31, 2019",North Carolina,Charlotte,10035 Dabney Dr,1,3,https://www.wsoctv.com/news/local/police-1-killed-3-injured-in-shooting-at-apartment-complex-near-uncc/981161303
+136,1492377,"August 31, 2019",South Carolina,Moncks Corner,336 Maplewood Rd,0,4,https://www.live5news.com/2019/08/31/five-people-transported-hospital-following-shooting-berkeley-county-bar/
+137,1492441,"August 31, 2019",Texas,Odessa,8250 TX 191,8,23,https://www.cbs7.com/content/news/FIRST-ON-CBS7-Autopsy-results-of-Odessa-mass--566876131.html
+138,1492264,"August 31, 2019",Pennsylvania,Philadelphia,4600 block of 4th St,2,2,https://www.fox29.com/news/labor-day-weekend-violence-across-philadelphia-leaves-6-killed-19-injured
+139,1493429,"August 31, 2019",Maryland,Baltimore,900 block of N Monroe St,0,4,https://baltimore.cbslocal.com/2019/09/01/police-investigate-quadruple-shooting-in-southwest-baltimore/
+140,1492297,"August 31, 2019",Maryland,Frederick,600 block of N Market St,0,4,https://www.fredericknewspost.com/news/crime_and_justice/police-frederick-man-shot-and-killed-man-who-was-set/article_fe8b7f56-ec31-59c1-883a-fe6857ccf83f.html
+141,1493038,"August 31, 2019",Illinois,Chicago,7100 block of S Paulina St,2,3,https://chicago.suntimes.com/crime/2019/8/31/20842826/2-dead-3-wounded-shooting-homicide-paulina-englewood
+142,1492087,"August 30, 2019",Alabama,Mobile,1621 Virginia St,0,6,https://www.fox10tv.com/news/mobile_county/teenager-accused-of-ladd-peebles-shooting-gets-help-from-unlikely-source/article_0bdd1528-883c-11eb-8fc4-ff9321f89aaf.html
+143,1491495,"August 30, 2019",Maryland,Baltimore,1600 block of E 29th St,1,3,https://foxbaltimore.com/news/local/7-shot-woman-dies-during-a-quadruple-shooting-in-northeast-baltimore
+144,1490466,"August 29, 2019",Maryland,Baltimore,2500 block of E Monument St,1,3,https://foxbaltimore.com/news/local/quadruple-shooting-baltimore-aint-never-been-like-this-before
+145,1487729,"August 25, 2019",New Mexico,Hobbs,1700 block of E Bond St,3,4,https://www.kob.com/new-mexico-news/man-charged-with-three-counts-of-first-degree-murder-for-house-party-shootings/5610952/?cat=500
+146,1487573,"August 25, 2019",Illinois,Chicago,8200 block of S Maryland Ave,1,3,https://chicago.cbslocal.com/2019/08/25/chicago-weekend-gun-violence-august-23-24-25/
+147,1487356,"August 24, 2019",Maryland,Temple Hills (Camp Springs),6200 block of Maxwell Dr,0,7,https://pgpolice.blogspot.com/2019/08/detectives-seeking-community-assistance.html
+148,1487224,"August 24, 2019",Massachusetts,Lynn,Warren Street,1,3,https://www.itemlive.com/2019/10/03/three-men-indicted-for-warren-street-playground-fatal-shooting/
+149,1486232,"August 23, 2019",Texas,Houston,4900 block of Southwind St,3,2,https://www.click2houston.com/news/local/police-1-killed-3-injured-in-southeast-houston-shooting
+150,1489373,"August 23, 2019",Georgia,Dublin,200 Riverview Park Dr,0,4,https://wgxa.tv/news/local/police-16-year-old-charged-with-shooting-4-in-dublin
+151,1486675,"August 23, 2019",Missouri,Saint Louis,1122 Union Blvd,1,3,https://www.ksdk.com/article/news/local/st-louis-shooting-victims-hit-double-digits-in-24-hour-span/63-deee5d75-8bb5-4825-b279-882a3b2a1bfd
+152,1485340,"August 22, 2019",South Carolina,Columbia,851 Bush River Rd,2,2,https://www.wltx.com/article/news/crime/mccarys-bar-grill-shooting-suspect-arrested/101-3b90ed4b-a1dc-4940-b147-de571b3d3b57?fbclid=IwAR1bh5ZgXdcBDA2s1ZcH5LR7BeXWQEeMyejC3ZyUjqi4SJAKhbtESJeha1Y
+153,1485548,"August 22, 2019",California,Los Angeles,300 block of West Fifth St,0,4,https://losangeles.cbslocal.com/2019/08/22/shooting-skid-row-dtla/
+154,1484335,"August 20, 2019",Georgia,Atlanta,111 James P Brawley Dr SW,0,4,https://www.cbs46.com/news/alleged-nd-shooter-at-clark-atlanta-univ-captured-in-miss/article_efbb4790-eeb6-11e9-9153-bf175788a00f.html
+155,1482199,"August 18, 2019",Missouri,Kansas City,770 W 47th St,0,4,https://www.kctv5.com/news/four-teens-shot-in-plaza-hotel-room-overnight/article_10d8411e-c1ab-11e9-b4f9-b3fb7a9e1568.html
+156,1481989,"August 17, 2019",Texas,Houston,12500 block of Mylla St,0,6,http://www.houstontx.gov/police/nr/2019/aug/nr190819-1.htm
+157,1480326,"August 15, 2019",Alabama,Montgomery,847 N University Dr,2,3,https://www.montgomeryadvertiser.com/story/news/crime/2019/10/15/16-year-old-arrested-double-homicide-case-off-asu-campus/3985077002/
+158,1479894,"August 15, 2019",Pennsylvania,Philadelphia,1400 block of W Conlyn St,0,5,https://6abc.com/police-5-people-shot-in-logan/5470510/
+159,1478869,"August 14, 2019",Pennsylvania,Philadelphia,3716 N 15th St,0,6,https://www.inquirer.com/news/pennsylvania/police-officers-shot-north-philadelphia-20190814.html
+160,1479395,"August 13, 2019",Washington,Tacoma,E 38th St and E Roosevelt Ave,2,3,https://www.kiro7.com/news/local/breaking-2-dead-three-others-injured-in-tacoma-shooting/975823037
+161,1478480,"August 12, 2019",Mississippi,Greenwood,200 Young St,0,4,https://www.gwcommonwealth.com/news/article_3b1d1516-d115-11e9-ab49-6bee603224a0.html
+162,1475924,"August 11, 2019",Illinois,Chicago,3500 block of W Lake St,0,6,https://chicago.suntimes.com/crime/2019/8/11/20800716/multiple-wounded-garfield-park-drive-by-gun-violence
+163,1475361,"August 10, 2019",Virginia,Richmond,6346 Midlothian Turnpike,0,4,https://www.wric.com/news/police-4-injured-in-overnight-shooting-on-midlothian-turnpike/
+164,1476271,"August 10, 2019",California,San Francisco,1100 Fillmore St,0,4,https://www.eastbaytimes.com/2019/08/13/san-francisco-shootings-one-killed-five-wounded/
+165,1475208,"August 9, 2019",Illinois,Chicago,7300 block of S Artesian Ave,0,4,https://chicago.suntimes.com/crime/2019/8/10/20799646/marquette-park-drive-by-gun-violence-shooting
+166,1472641,"August 7, 2019",Missouri,Saint Louis,4900 block of Plover Ave,3,1,https://www.stltoday.com/news/local/crime-and-courts/a-shooting-a-fiery-crash-in-north-st-louis-death/article_f85794b6-ec16-5859-9c43-589301e5480f.html
+167,1469344,"August 5, 2019",New York,Brooklyn,216 Buffalo Ave,0,4,https://nypost.com/2019/08/06/police-search-for-masked-suspects-in-quadruple-brooklyn-shooting/
+168,1527721,"August 4, 2019",Louisiana,Lake Charles,110 Pryce St,0,4,https://www.katc.com/news/calcasieu-parish/drive-by-shooting-suspects-arrested
+169,1468190,"August 4, 2019",Illinois,Chicago,1800 S Kildare Ave,1,7,https://heyjackass.com/
+170,1468799,"August 4, 2019",Tennessee,Memphis,443 E Shelby Dr,1,3,https://www.fox13memphis.com/top-stories/4-shot-1-dead-after-shooting-on-shelby-dr-early-sunday-morning/972692135
+171,1468091,"August 4, 2019",Illinois,Chicago,2900 block of W Roosevelt Rd,0,7,https://chicago.suntimes.com/crime/2019/8/4/20753570/several-wounded-douglas-park-shooting-roosevelt
+172,1467828,"August 4, 2019",Ohio,Dayton,419 E 5th St,10,17,https://dayton247now.com/news/local/coroner-to-release-preliminary-autopsy-findings-after-oregon-district-mass-shooting
+173,1466705,"August 3, 2019",Texas,El Paso,7101 Gateway Blvd,23,23,https://www.wsbtv.com/news/trending/last-hospitalized-el-paso-walmart-shooting-victim-dies-bringing-massacres-death-toll-23/GCFVPF3IF5GDVP7Q6AFJGA7IDY/
+174,1467157,"August 2, 2019",Virginia,Suffolk,200 block of N Broad St,2,3,https://pilotonline.com/news/local/crime/article_88ca35ba-b5e9-11e9-8336-eb334d1c27e9.html
+175,1462317,"July 30, 2019",Ohio,Columbus,1280 E Long St,0,5,https://www.dispatch.com/news/20190730/5-shot-during-party-at-house-on-near-east-side
+176,1460630,"July 28, 2019",Pennsylvania,Philadelphia,2600 block of Carroll St,1,5,https://6abc.com/gunfire-at-video-shoot-in-southwest-philly-kills-rapper-injures-5/5426195/
+177,1460448,"July 28, 2019",California,Gilroy,7050 Miller Ave,4,17,https://www.sccgov.org/sites/da/newsroom/newsreleases/Pages/NRA2020/S-Legan-OII-.aspx?fbclid=IwAR1Ia-N_Wg00ypYY3znUJV53uqdPlHMNc3-7GPqy_NgeGaNcQswfEF1k_qI
+178,1461352,"July 28, 2019",Wisconsin,Chippewa Falls,16964 54th Ave,5,2,https://www.weau.com/content/news/Officials-are-seeking-information-on-the-suspects-car-in-the-Chippewa-County-homicides-525571451.html
+179,1459941,"July 28, 2019",District of Columbia,Washington,637 T St NW,0,4,https://www.popville.com/2019/12/arrest-made-dc-quadruple-shooting-shaw/
+180,1460726,"July 28, 2019",Illinois,Chicago,3938 W Roosevelt Rd,0,4,https://chicago.suntimes.com/2019/7/28/8934490/four-people-shot-in-front-of-lawndale-gas-station-a-week-after-a-shooting-in-the-same-location
+181,1459389,"July 27, 2019",Kansas,Wichita,505 N Rock Rd,1,3,http://www.kake.com/story/40843840/1-airman-killed-3-others-hurt-in-east-wichita-shooting-victim-and-suspect-identified
+182,1459718,"July 27, 2019",New York,Brooklyn,1555 Linden Blvd,1,11,https://nypost.com/2019/10/17/man-confesses-to-sparking-brooklyn-block-party-shooting-cops/
+183,1459201,"July 26, 2019",Washington,Kennewick,E 10th Ave,1,3,https://www.tri-cityherald.com/news/local/crime/article233209971.html
+184,1457165,"July 25, 2019",California,Canoga Park,21901 Roscoe Boulevard,4,2,https://www.wndu.com/content/news/Police-Man-killed-father-brother-wounded-mother-in-Los-Angeles-513234511.html
+185,1453327,"July 21, 2019",Illinois,Chicago,3900 block of Roosevelt Rd,0,4,https://chicago.suntimes.com/crime/2019/7/21/20702560/4-wounded-lawndale-shooting-roosevelt-road
+186,1453884,"July 21, 2019",District of Columbia,Washington,2300 block of 15th St NE,0,4,https://www.nbcwashington.com/news/local/5-Wounded-1-Killed-in-Shootings-Sunday-Night-in-DC-513029411.html
+187,1452654,"July 20, 2019",Pennsylvania,Clairton,501 Waddell Ave,0,4,https://triblive.com/local/pittsburgh-allegheny/four-teens-suffer-gunshot-wounds-at-clairton-graduation-party/
+188,1453350,"July 20, 2019",Maryland,Baltimore,2800 block of Boarman Ave,1,3,https://www.wbaltv.com/article/boarman-avenue-northwest-baltimore-quadruple-shooting/28458052
+189,1452617,"July 20, 2019",Illinois,Chicago,2401 N Lake Shore Dr,0,7,https://chicago.cbslocal.com/2019/07/20/lincoln-park-shooting/
+190,1450767,"July 18, 2019",Illinois,Chicago,3427 W Fulton Blvd,1,3,https://chicago.suntimes.com/2019/7/18/20698956/4-shot-on-garfield-park-porch
+191,1450124,"July 17, 2019",Texas,Lubbock,N Elder Ave and E Colgate St,1,3,https://www.kcbd.com/2019/07/22/police-report-details-group-quarrels-that-led-last-weeks-shootings/
+192,1449602,"July 16, 2019",Texas,San Antonio,6989 San Pedro Ave,0,4,https://woai.iheart.com/content/2019-07-17-update-suspect-charged-in-work-place-shooting-spree/
+193,1448578,"July 15, 2019",Georgia,Atlanta,1572 Hardee St NE,0,4,https://www.cbs46.com/news/exclusive-fedex-driver-deemed-humble-hero-transported-shooting-victims-to/article_20660ecc-a83d-11e9-b147-3fc63ce0cfc6.html
+194,1447456,"July 14, 2019",Illinois,Chicago,4600 block of W Erie St,0,4,https://chicago.suntimes.com/crime/2019/7/14/20693559/four-shot-in-garfield-park-erie-street
+195,1446611,"July 13, 2019",Illinois,Chicago,7900 block of S Loomis Blvd,1,4,https://chicago.suntimes.com/crime/2019/7/15/20692775/weekend-gun-violence-july-12-july-15
+196,1447057,"July 13, 2019",Pennsylvania,Philadelphia,5433 Lansdowne Ave,0,7,https://philadelphia.cbslocal.com/2019/07/14/police-searching-for-2-men-wanted-in-southwest-philly-playground-shooting-that-injured-7/
+197,1445066,"July 11, 2019",Texas,Houston,5901 Royal Palms St,0,4,https://www.houstontx.gov/police/nr/2019/jul/nr071119-1.htm
+198,1441967,"July 8, 2019",District of Columbia,Washington,3900 Martin Luther King Jr Ave SW,2,2,https://fairfaxnews.com/2019/07/updated-additional-victim-succumbs-to-injuries-homicide-3900-block-of-martin-luther-king-jr-avenue-southwest/
+199,1441565,"July 7, 2019",Michigan,Flint,Clio Rd and Myrtle St,0,6,https://nbc25news.com/news/local/5-people-shot-at-flint-gas-station
+200,1441613,"July 7, 2019",Missouri,Saint Louis,N Tucker Blvd and Convention Plaza,0,5,https://www.kmov.com/news/downtown-st-louis-shooting-leaves-injured-overnight/article_5fe78650-a0ba-11e9-afa7-4fca28c07d37.html
+201,1441396,"July 7, 2019",Illinois,Chicago,5600 block of S Paulina St,0,4,https://chicago.suntimes.com/crime/2019/7/7/20684947/4-wounded-englewood-shooting-south-paulina-street-gun-violence
+202,1441296,"July 7, 2019",Illinois,Chicago,600 block of W 61st Pl,0,4,https://chicago.suntimes.com/crime/2019/7/7/20684923/4-wounded-1-critically-englewood-shooting-61st-place
+203,1441317,"July 7, 2019",New Mexico,Albuquerque,211 Gold Ave SW,0,4,https://www.abqjournal.com/1337222/4-shot-outside-abq-night-club.html
+204,1441427,"July 6, 2019",California,San Jose,3036 Quinto Way,0,4,https://www.nbcbayarea.com/news/local/Quadruple-Shooting-San-Jose-Police-512320011.html
+205,1441721,"July 6, 2019",Missouri,Saint Louis,1921 Chambers Rd,5,0,https://fox2now.com/2019/07/07/north-county-residents-on-edge-after-5-adults-found-dead-in-apartment/
+206,1440510,"July 5, 2019",Massachusetts,Boston,Maple St,0,6,https://www.wcvb.com/article/6-people-shot-outside-of-roxbury-party-police-say/28306883
+207,1440879,"July 5, 2019",Nevada,Reno,600 block of Spokane St,1,5,https://www.rgj.com/story/news/2021/03/24/reno-family-says-slayed-teen-hero-third-arrest-made-case/4761896001/
+208,1439593,"July 5, 2019",Illinois,Chicago,1600 block of E 67th St,0,5,https://chicago.suntimes.com/crime/2019/7/5/20682901/5-wounde-woodlawn-shooting-67th-street-gun-violence
+209,1440257,"July 5, 2019",New York,Brooklyn,Elton St and Belmont Ave,0,4,https://abc7ny.com/4-shot-in-brooklyn-after-4th-of-july-fireworks/5379759/
+210,1440765,"July 4, 2019",Illinois,Rockford,1100 block of Preston St,0,4,https://www.wifr.com/content/news/Four-people-shot-after-argument-in-Rockford-512248982.html
+211,1439737,"July 4, 2019",California,Los Angeles,1900 block of Adair St,0,4,https://www.foxla.com/news/4-people-shot-in-central-alameda-area-of-l-a
+212,1438971,"July 4, 2019",Illinois,Chicago,800 block of N Homan Ave,1,3,https://chicago.suntimes.com/crime/2021/3/23/22346275/keshawn-keaton-pierre-teamer-murder-humboldt-park-shooting
+213,1439765,"July 4, 2019",California,Fresno,4700 block of E Hamilton Ave,1,3,https://www.fresnobee.com/news/local/crime/article232338372.html
+214,1439042,"July 3, 2019",Texas,Katy,5507 Everhart Manor Ln,2,3,https://www.wkrn.com/news/texas-sheriff-brother-kills-sister-self-at-housewarming/?fbclid=IwAR0JoZ-XGxFkNFLZbjnCjblabA3n-CsPn5lO--SxyVH8YZgu2FdZ-ziipLg
+215,1438602,"July 2, 2019",Missouri,Saint Louis (Wellston),6250 Page Ave,0,4,https://fox2now.com/2019/07/03/police-search-for-drive-by-shooter-who-opened-fire-outside-wellston-food-market/
+216,1437094,"July 1, 2019",Maryland,Baltimore,1200 block of N Luzerne Ave,0,4,https://foxbaltimore.com/news/local/5-women-shot-in-overnight-violence-man-woman-killed
+217,1435804,"June 30, 2019",California,Oakland,3000 block of Brookdale Ave,0,4,https://www.eastbaytimes.com/2019/06/30/boy-three-adults-wounded-in-oakland-shooting/
+218,1436545,"June 30, 2019",California,Yucaipa,12700 block of California St,0,5,https://www.dailybulletin.com/2019/07/01/five-wounded-in-yucaipa-barbecue-shooting-at-mobile-home-park/
+219,1436254,"June 30, 2019",Texas,Dallas,3535 Munger Ave,2,2,https://www.wfaa.com/article/news/crime/4-teens-shot-2-killed-at-a-playground-in-east-dallas/287-ed57fc9a-aa0d-4440-a394-b890929372d7
+220,1435578,"June 30, 2019",New York,Bay Shore,Farragut Ave,0,6,https://twitter.com/Stringernews/status/1145240156049485824
+221,1435041,"June 29, 2019",Connecticut,Hartford,Judson St and Martin St,0,4,https://www.nbcconnecticut.com/news/local/Police-Investigate-Quadruple-Shooting-in-Hartford-512003582.html
+222,1435297,"June 29, 2019",Louisiana,Gray,2700 block of W Park Ave,0,4,https://www.wdsu.com/article/terrebonne-parish-officials-argument-may-have-led-to-four-shot-injured/28231051
+223,1434931,"June 29, 2019",Illinois,Chicago,2400 block of W Jackson Blvd,0,5,https://chicago.suntimes.com/crime/2019/6/29/19739597/five-shot-in-near-west-side
+224,1435028,"June 29, 2019",Louisiana,Baton Rouge,7132 Florida Blvd,0,7,https://www.wafb.com/2019/06/29/police-injured-shooting-florida-boulevard-night-club/
+225,1434882,"June 28, 2019",New Jersey,Paterson,50 block of Jefferson St,0,4,http://newjersey.news12.com/story/40726515/woman-relives-sons-death-when-daughter-grandson-shot-in-paterson
+226,1434602,"June 28, 2019",Connecticut,Hamden,937 Choate Ave,0,5,https://www.nbcconnecticut.com/news/local/Hamden-House-Party-Shooting-Connected-to-Boy-Shot-in-New-Haven-Police-512004542.html
+227,1434971,"June 28, 2019",Georgia,Atlanta,Ira St and Bass St SW,0,7,https://www.11alive.com/article/news/crime/14-shot-in-48-hours-in-suspected-gang-violence-in-atlanta/85-e070442d-8847-46c8-a23a-d139dfb87a5c
+228,1434893,"June 28, 2019",New Jersey,Jersey City,167 Armstrong Ave,0,4,https://www.nj.com/hudson/2019/06/4-people-shot-on-jersey-city-street-police-say-2-suspects-sought.html
+229,1435217,"June 28, 2019",Minnesota,Saint Paul,909 Desoto St,0,5,https://www.duluthnewstribune.com/news/crime-and-courts/2735743-Drive-by-shooting-in-St.-Paul-injures-5
+230,1432989,"June 27, 2019",Georgia,Atlanta,600 block of Parkway Dr,0,7,https://www.nbcdfw.com/news/local/Two-Children-Taken-to-Hospital-With-Gunshot-Wounds-511903131.html
+231,1432930,"June 26, 2019",Ohio,Akron,900 block of Rowe St,1,3,https://www.news5cleveland.com/news/local-news/akron-canton-news/fugitive-of-the-week-man-wanted-in-fatal-shooting-of-34-year-old-man-inside-akron-home
+232,1433857,"June 26, 2019",Wisconsin,Milwaukee,2800 block of N 34th St,0,4,https://fox6now.com/2019/06/27/1181294/
+233,1429475,"June 23, 2019",California,La Jolla,7500 block of Draper Ave,1,3,https://www.nbcsandiego.com/news/local/Another-Arrested-Death-Woman-La-Jolla-House-Party-560354701.html
+234,1429810,"June 23, 2019",California,San Jose,568 Habbitts Court,5,0,https://www.kron4.com/news/4-victims-killed-in-san-jose-quadruple-murder-suicide-identified/
+235,1429047,"June 23, 2019",Indiana,South Bend,1150 E Mishawaka Ave,1,10,https://www.wndu.com/content/news/Person-of-interest-sought-in-Kellys-Pub-shooting-that-killed-1-injured-10-523495311.html
+236,1429480,"June 23, 2019",Ohio,Columbus,1767 Genessee Ave,0,5,https://myfox28columbus.com/news/local/several-hurt-in-shooting-in-east-linden
+237,1429338,"June 23, 2019",South Carolina,Abbeville,1108 Cambridge St,3,1,https://www.greenvilleonline.com/story/news/local/2019/06/23/abbeville-sc-apartment-shooting-3-killed-1-injured-suspect-large/1540667001/?utm_source=oembed&utm_medium=onsite&utm_campaign=storylines&utm_content=news&utm_term=3001622002
+238,1429399,"June 22, 2019",Virginia,Hampton,1st St and E Pembroke Ave,0,4,https://www.13newsnow.com/article/news/local/mycity/hampton/15-year-old-arrested-for-buckroe-beach-shooting-that-injured-two-children-two-adults/291-9eacee7f-7ef5-44a8-80c7-27b9645ea594
+239,1429022,"June 22, 2019",Pennsylvania,Philadelphia,2400 block of Moore St,0,4,https://www.inquirer.com/crime/philadelphia-gun-violence-shooting-jim-kenney-20190623.html
+240,1428595,"June 22, 2019",Maryland,Baltimore,800 block of N Port St,1,4,https://www.baltimoresun.com/news/crime/bs-md-ci-overnight-shootings-20190622-story.html?fbclid=IwAR2Yy98dzQIMVJCK7mkJ5uwYNClEJw6hMUdLckQazG_4DMQD2ey82tb7_ic
+241,1428788,"June 21, 2019",Michigan,Saginaw,1506 N Charles St,1,3,https://www.mlive.com/news/saginaw-bay-city/2019/06/man-killed-another-3-wounded-in-saginaw-shooting.html
+242,1427483,"June 21, 2019",Illinois,Chicago,6300 block of S King Dr,0,4,https://chicago.suntimes.com/crime/2019/6/21/18700471/4-wounded-parkway-gardens-shooting-police-south-king-drive
+243,1428047,"June 21, 2019",California,Santa Maria,519  West Taylor St,5,0,https://heavy.com/news/2019/06/claude-adams/
+244,1428229,"June 21, 2019",California,Richmond,700 block of 14th St,0,5,https://www.nbcbayarea.com/news/local/5-Hurt-in-Richmond-Drive-By-Shooting-Police-511660762.html
+245,1426537,"June 20, 2019",Pennsylvania,Allentown,343 Hamilton St,0,10,https://www.wfmz.com/news/lehigh-valley/police-arrest-man-suspected-of-returning-fire-during-shooting-outside-nightclub-that-wounded-10/1125346194
+246,1425193,"June 18, 2019",New Jersey,Newark,700 block of Dr Martin Luther King Jr Blvd,1,4,https://abc7ny.com/shootings-at-2-locations-in-newark-leave-1-dead-6-wounded/5352042/
+247,1425161,"June 17, 2019",Texas,San Antonio,E Market St and Tower of the Americas Way,0,4,https://www.mysanantonio.com/news/local/crime/article/4-shot-in-drive-by-attack-near-downtown-14013790.php
+248,1424957,"June 17, 2019",Tennessee,Memphis,2872 Coach Dr,0,5,https://www.wmcactionnews5.com/2019/06/18/people-injured-shooting-apartment-complex/
+249,1423697,"June 16, 2019",Pennsylvania,Philadelphia,6900 block of Reedbird Pl,1,5,https://6abc.com/1-killed-5-injured-in-shooting-at-philadelphia-graduation-party/5349462/
+250,1423330,"June 16, 2019",Kentucky,Louisville,Dixie Highway and Ormsby Ave,1,6,https://www.wave3.com/2019/06/16/several-injured-multiple-overnight-shootings-louisville/
+251,1423435,"June 16, 2019",Iowa,Des Moines,1200 block of Sampson St,0,6,https://www.desmoinesregister.com/
+252,1422981,"June 15, 2019",Louisiana,Shreveport,2500 block of Hollywood Ave,0,4,https://www.ksla.com/2019/06/15/two-separate-shootings-leave-several-injured-shreveport/
+253,1420933,"June 12, 2019",North Carolina,Charlotte,305 N Graham St,1,3,https://www.wbtv.com/2019/06/26/teens-charged-deadly-shooting-graduation-party-uptown-charlotte/
+254,1419305,"June 11, 2019",Colorado,Aurora,12500 block of E Kansas Pl,0,4,https://www.9news.com/amp/article/news/crime/four-injured-in-overnight-shooting-in-aurora/73-dbf253c4-1d6d-4b48-bacf-5bf53eed5176
+255,1420432,"June 11, 2019",Georgia,Savannah,6900 Block of Damascus Rd,2,2,https://www.wjcl.com/article/savannah-police-found-2-men-shot-to-death-this-man-is-now-charged-with-murder/28221453
+256,1418533,"June 9, 2019",Ohio,Cleveland,17218 Tarkington Ave,1,3,https://www.cleveland.com/crime/2019/06/man-killed-three-others-hurt-in-shooting-during-large-gathering-at-cleveland-park.html
+257,1418548,"June 9, 2019",New York,Buffalo,2081 Niagara St,0,4,https://www.wgrz.com/article/news/local/buffalo-police-4-people-shot-in-black-rock-neighborhood/71-5e9f0894-3ac7-4dd4-be8a-81f18b7cd9cc
+258,1418457,"June 9, 2019",Tennessee,Henning,265 N Main St,1,3,https://wreg.com/2019/06/09/one-killed-several-injured-in-lauderdale-county-shooting/
+259,1418180,"June 8, 2019",Washington,White Swan,5151 Medicine Valley Rd,5,2,https://www.yakimaherald.com/news/crime_and_courts/white-swan-killings-survivor-lindell-lafollette-tells-the-story/article_0ac7ab51-777d-5b7f-be6c-2e8ddcd2ba7c.html
+260,1417570,"June 8, 2019",Illinois,Chicago,3500 block of W North Ave,0,4,https://chicago.suntimes.com/crime/2019/6/8/18657669/humboldt-park-shooting-4-wounded-north-ave
+261,1417716,"June 7, 2019",Texas,Austin,8220 TX-71,0,5,https://www.statesman.com/news/20190611/dispute-over-girlfriend-led-to-5-men-shot-at-austin-mobile-home-park-police-say
+262,1416374,"June 6, 2019",Illinois,Chicago,2500 block of N Lake Shore Dr,1,3,https://abc7chicago.com/1-killed-3-wounded-in-lake-shore-drive-shooting-near-lincoln-park/5336483/
+263,1415399,"June 5, 2019",California,Santa Rosa,828 W 9th Street,0,4,https://www.pressdemocrat.com/news/9678867-181/police-3-arrested-in-connection?fbclid=IwAR2-Wb-64DGDCOe_u10g3T5dodaaalFVZFYmD4H81bsdaB0YonWCu7f_lsc&sba=AAS
+264,1412419,"June 1, 2019",South Carolina,Allendale,473 Main St S,0,5,https://www.wltx.com/article/news/local/5-men-shot-at-car-wash-in-south-carolina-town/101-7abd7390-1462-4e4f-b846-c2e22feebaa0
+265,1411598,"June 1, 2019",Illinois,Chicago,300 block of East Chicago Ave,0,4,https://chicago.suntimes.com/crime/2019/6/1/18648350/4-wounded-shooting-near-northwesterns-chicago-campus
+266,1411408,"June 1, 2019",Virginia,Portsmouth,1100 block of Mt Vernon Ave,1,3,https://www.wavy.com/news/local-news/portsmouth/case-against-suspect-in-portsmouth-shooting-that-killed-1-injured-3-moves-forward/
+267,1412243,"June 1, 2019",Illinois,Chicago,5600 block of West Madison St,0,4,https://chicago.suntimes.com/crime/2019/6/2/18649207/4-wounded-including-2-teens-austin-shooting-police
+268,1411963,"June 1, 2019",Georgia,Atlanta,12 Broad Street,0,5,https://www.11alive.com/article/news/local/downtown/police-2-more-victims-show-up-after-downtown-atlanta-shooting-bringing-injury-total-to-5/85-9a1bc0d6-1d5b-42c2-9707-a955ecfff19a
+269,1412430,"June 1, 2019",Georgia,Macon,Suzanne Dr and Robinson Dr,2,4,https://www.macon.com/news/local/crime/article232066832.html
+270,1410442,"May 31, 2019",Virginia,Virginia Beach,2405 Courthouse Drive,13,4,https://www.wavy.com/virginia-beach-mass-shooting/police-chief-says-findings-of-mass-shooting-investigation-may-not-be-fully-released-initially/
+271,1411661,"May 31, 2019",California,West Covina,306 N Hollow Ave,1,3,https://www.whittierdailynews.com/2019/07/02/17-year-old-boy-charged-in-fatal-shooting-at-west-covina-house-party/
+272,1410329,"May 30, 2019",Illinois,Robbins,14000 block of Grace Ave,0,5,https://abc7chicago.com/5-wounded-in-robbins-shooting/5324345/
+273,1408289,"May 29, 2019",Texas,Cleveland,26311 TX-321,3,2,https://abc13.com/second-victim-has-died-in-liberty-co-shooting/5321381/
+274,1409255,"May 29, 2019",Louisiana,Reserve,300 block of Homewood Place,1,3,https://www.wwltv.com/article/news/local/st-john/arrests-made-in-reserve-drive-by-shooting-that-killed-1-wounded-3/289-30e8c9bb-2a9c-45a6-a98b-cef3dfefecd1
+275,1407941,"May 27, 2019",Missouri,Saint Louis,5900 block of Goodfellow Blvd,2,2,https://www.stltoday.com/news/local/crime-and-courts/st-louis-police-release-names-of-homicide-victims-some-killed/article_7b8a6bbd-7129-5bf3-ac35-6c234d1e05db.html
+276,1406330,"May 27, 2019",District of Columbia,Washington,1200 block of Sumner Rd SE,0,5,https://wtop.com/dc/2019/05/police-6-shot-including-boy-in-southeast-dc/
+277,1407189,"May 27, 2019",New Jersey,Trenton,100 block of Walnut St,1,5,https://www.nj.com/mercer/2019/05/1-killed-5-wounded-as-gunfire-erupts-in-trenton-again-days-after-10-were-hurt-in-shooting-outside-city-bar.html
+278,1405445,"May 26, 2019",District of Columbia,Washington,3509 Wheeler Rd SE,1,3,https://mpdc.dc.gov/release/homicide-3500-block-wheeler-road-southeast-1
+279,1405749,"May 26, 2019",Virginia,La Crosse,800 block of Alvis Road,0,5,https://www.wric.com/news/crime/5-people-injured-after-gunfire-erupts-at-party-in-brunswick-county/2031625061
+280,1406070,"May 26, 2019",California,Stockton,600 block of E Oak St,1,3,https://www.recordnet.com/news/20190528/names-released-of-two-stockton-homicide-victims
+281,1404417,"May 25, 2019",New Jersey,Trenton,225 Brunswick Ave,0,9,https://www.nj.com/news/2019/05/30-shots-fired-in-drive-by-shooting-that-injured-10-outside-trenton-bar.html
+282,1404580,"May 25, 2019",Michigan,Detroit,3400 block of Devonshire,3,2,https://www.miheadlines.com/2019/06/06/detroit-man-charged-in-triple-lgbtq-killings/
+283,1405196,"May 25, 2019",Virginia,Chesapeake,Holly Cove Dr and Schooner Trail,1,9,https://wtkr.com/2019/05/27/man-shot-in-the-neck-speaks-out-after-memorial-day-party-turns-deadly/
+284,1405317,"May 25, 2019",Maryland,Baltimore,500 block of N Belnord Ave,0,4,https://www.baltimoresun.com/news/maryland/crime/bs-md-quadruple-shooting-20190526-story.html
+285,1405221,"May 25, 2019",Oklahoma,Oklahoma City,N Kelley Ave and NE 26th St,0,5,https://kfor.com/2019/05/25/officials-responding-to-multi-victim-shooting-in-ne-okc/
+286,1400095,"May 20, 2019",Oklahoma,Tulsa,8118 E 16th St,2,2,https://www.koco.com/article/20-year-old-man-charged-in-fatal-shooting-that-left-2-dead-in-tulsa/27590197
+287,1400146,"May 20, 2019",Louisiana,Alexandria,1900 block of Bacon Street,1,4,https://www.thetowntalk.com/story/news/2019/05/29/attorney-man-wanted-alexandria-homicide-surrendered-voluntarily/1274896001/
+288,1400561,"May 20, 2019",Ohio,Columbus,2424 Sullivant Ave,0,4,https://www.10tv.com/article/4-injured-after-incident-hilltop-2019-may
+289,1399820,"May 19, 2019",Oregon,Portland,226 SE Madison St,0,5,https://www.oregonlive.com/crime/2019/05/tenants-disturbed-by-gunfire-that-broke-out-during-dj-party-at-audiocinema-warehouse-wounding-5.html
+290,1399017,"May 18, 2019",Mississippi,Cascilla,700 Leverette Ln,1,4,https://www.facebook.com/TheSunSentinel/posts/10157142637592645
+291,1398553,"May 18, 2019",Alabama,Atmore,100 Martin Luther King Avenue,1,8,https://weartv.com/news/local/police-identify-man-killed-in-atmore-graduation-party-shooting
+292,1398538,"May 18, 2019",Indiana,Muncie,2410 W. Euclid Ave,1,6,https://www.wthr.com/article/teen-shot-muncie-house-party-dies
+293,1398593,"May 18, 2019",California,Long Beach,1616 West Pacific Coast Highway,1,4,https://www.latimes.com/local/lanow/la-me-ln-long-beach-shooting-20190518-story.html
+294,1398584,"May 18, 2019",Iowa,Cedar Rapids,70 Kirkwood Ct SW,2,2,https://www.kcci.com/article/75-year-sentence-for-iowa-man-who-killed-2-in-parking-lot-shooting/34239263
+295,1400934,"May 18, 2019",Nebraska,Omaha,2825 Y St,0,4,https://www.wowt.com/content/news/Shootings-injure-four-people-Saturday-morning-510114761.html
+296,1399346,"May 18, 2019",North Carolina,Winston Salem (Winston-salem),4252 Cody Drive,2,4,https://www.greensboro.com/news/crime/winston-salem-police-link-shootings-urge-public-for-information-on/article_54f2f42e-e482-5fed-877f-b974f85c7899.html
+297,1398876,"May 17, 2019",California,Sacramento,7326 Stockton Blvd,1,3,https://sacramento.cbslocal.com/2019/05/20/family-seeks-justice-south-sacramento-shooting/
+298,1397521,"May 16, 2019",Ohio,Cleveland,9500 Cardwell Ave,0,4,https://fox8.com/2019/05/17/2-adults-and-2-teens-hospitalized-in-cleveland-shooting/
+299,1396491,"May 15, 2019",Louisiana,Saint Rose,100 block of St. Rose Ave,0,4,https://www.fox8live.com/2019/05/16/sheriff-shootings-st-rose-leave-people-injured/
+300,1395560,"May 14, 2019",California,Los Angeles,1248 W 47th St,0,4,https://www.youtube.com/watch?v=11XdoYkJhUM
+301,1393960,"May 13, 2019",Louisiana,New Orleans,2100 block of 4th St,0,4,https://www.wwltv.com/article/news/crime/police-say-he-shot-4-people-and-committed-81-burglaries/289-0d255f04-f997-40ce-83e8-16ab634cbade?fbclid=IwAR1fXmihasRTINCLTtUWo3oAE-T_0bdCMigGBYV8ja8spUmAdk3gM_ehK08
+302,1394330,"May 13, 2019",Missouri,Saint Louis,4047 Shreve Ave,4,1,https://www.stltoday.com/news/local/crime-and-courts/fourth-victim-dies-after-monday-night-shooting-at-home-in/article_094ad00e-e2b1-5cd5-ac81-be05793a056f.html
+303,1392923,"May 11, 2019",Pennsylvania,Effort,Toll Rd and Bayberry Rd,0,4,https://www.wfmz.com/news/poconos-coal/four-people-injured-after-monroe-county-shooting/1077361589
+304,1391971,"May 10, 2019",Pennsylvania,Philadelphia,1900 block of N Croskey St,0,5,https://6abc.com/police-teens-shoot-5-men-in-north-philly-ambush/5294866/
+305,1392313,"May 10, 2019",Missouri,Saint Louis,4000 block of Ashland Ave,0,6,https://fox2now.com/2019/05/10/greater-ville-shooting-police-now-say-six-people-wounded/
+306,1390764,"May 8, 2019",Indiana,Indianapolis,Roache St and Rader St,0,4,https://www.wishtv.com/news/crime-watch-8/4-people-shot-on-city-s-near-northwest-side/1990939660
+307,1389220,"May 7, 2019",Colorado,Littleton (Highlands Ranch),8773 S Ridgeline Blvd,1,8,https://www.thedenverchannel.com/news/stem-school-shooting/guard-who-disarmed-suspect-mistakenly-shot-2-students-in-stem-school-attack-wont-face-jail-time
+308,1386962,"May 5, 2019",New Jersey,North Bergen,2033 45th Street,1,4,http://www.wfmz.com/news/lehigh-valley/man-left-on-side-of-road-after-shooting-police-investigate/1075784235
+309,1387170,"May 5, 2019",California,Oceano,1001 Cabrillo Hwy,0,6,https://www.fresnobee.com/news/state/california/article230050314.html
+310,1386510,"May 4, 2019",Missouri,Saint Louis,Union Blvd and Northland Ave,1,4,https://www.stltoday.com/news/local/crime-and-courts/killed-by-gunmen-men-who-accidentally-shot-themselves-among-injured/article_35bbc841-141c-5088-82d4-4fa931707b9a.html
+311,1386929,"May 4, 2019",Indiana,Indianapolis,101 W Maryland St,0,4,https://fox59.com/2019/05/05/3-shot-downtown/
+312,1387245,"May 4, 2019",California,Stockton,5105 Holiday Dr,1,4,https://www.kcra.com/article/man-killed-four-shot-in-stockton/27365094
+313,1386575,"May 4, 2019",Delaware,Wilmington,W 27th St and Tatnall St,0,4,https://www.delawareonline.com/story/news/crime/2019/05/04/wilmington-police-investigate-possible-shooting/1104730001/
+314,1386481,"May 3, 2019",Texas,Dallas,5400 Cedar Springs Rd,1,3,https://dpdbeat.com/2019/05/04/maple-springs-homicide/
+315,1386085,"May 3, 2019",Maryland,Baltimore,1900 block of Ramsay St,0,5,https://www.baltimoresun.com/news/maryland/crime/bs-md-ci-two-year-old-shot-20190507-story.html
+316,1385642,"May 3, 2019",Maryland,Baltimore,2500 block of E Biddle St,0,4,https://www.baltimoresun.com/news/maryland/crime/bs-md-overnight-shooting-20190503-story.html
+317,1384553,"May 1, 2019",Massachusetts,Boston,32 Windermere Rd,1,3,https://bpdnews.com/news/2019/5/3/investigation-update-victim-identified-in-death-investigation-in-the-area-of-32-windermere-road-in-dorchester
+318,1383752,"April 30, 2019",North Carolina,Charlotte,9214 South Library Ln,2,4,https://www.charlotteobserver.com/news/local/crime/article235198347.html
+319,1381857,"April 28, 2019",Tennessee,Nashville,1407 Dr DB Todd Jr Blvd,0,7,https://fox17.com/news/local/metro-police-confirms-north-nashville-shooting-one-suspect-description-released
+320,1382099,"April 28, 2019",Alabama,Birmingham,514 19th St Ensley,0,4,http://www.wbrc.com/2019/04/28/four-people-shot-outside-ensley-club/
+321,1381979,"April 28, 2019",Maryland,Baltimore,2544 Edmondson Ave,1,7,https://www.baltimoresun.com/news/maryland/crime/bs-md-baltimore-police-shoot-2500-edmondson-avenue-church-20190428-story.html?fbclid=IwAR0WuXFzaTjNFRVWNY2XmfznCw2z182Cli0SCMSi_h0J1sLHaBkDhRTg9Xs
+322,1382711,"April 28, 2019",Ohio,West Chester,4637 Wyndtree Dr,4,0,https://www.cincinnati.com/story/news/2019/08/05/west-chester-killings-gurpreet-singh-court/1921352001/
+323,1381771,"April 27, 2019",Mississippi,Jackson,700 block of Monterey St,1,3,https://www.clarionledger.com/story/news/2019/04/28/one-man-dead-after-four-shot-jackson/3609138002/
+324,1381273,"April 27, 2019",California,Poway,16934 Chabad Way,1,3,https://www.latimes.com/local/lanow/la-me-ln-synagogue-shooting-girl-victim-20190428-story.html
+325,1381734,"April 27, 2019",California,Los Angeles,700 N San Fernando Rd,0,6,https://www.latimes.com/local/lanow/la-me-san-fernando-valley-shooting-20190427-story.html
+326,1377519,"April 21, 2019",Pennsylvania,Philadelphia,1500 block of South 31st St,0,4,https://philadelphia.cbslocal.com/2019/04/22/4-people-injured-in-grays-ferry-shooting-on-easter-sunday-police/
+327,1376873,"April 20, 2019",Tennessee,Memphis,761 Chestnut Ave,0,6,https://www.commercialappeal.com/story/news/2019/04/21/suspect-charged-south-memphis-shooting-injured-seven/3533620002/
+328,1376883,"April 19, 2019",Kansas,Wichita,1628 S George Washington Blvd,0,4,http://www.kake.com/story/40337763/wichita-police-arrest-17-year-old-boy-for-shooting-that-injured-4-people
+329,1375235,"April 18, 2019",Kentucky,Louisville,4000 block of Bells Ln,0,4,https://www.courier-journal.com/story/news/crime/2019/04/18/multiple-people-injured-interstate-264-shooting/3515356002/
+330,1373557,"April 16, 2019",Maryland,Germantown,18700 block of Curry Powder Ln,1,3,https://wtop.com/montgomery-county/2019/04/police-4-shot-in-germantown-md/
+331,1370795,"April 14, 2019",Florida,Miami,NW 19th Ave and 60th St,2,2,https://wsvn.com/news/local/man-accused-of-killing-2-sisters-injuring-2-others-in-nw-miami-dade-shooting-faces-judge/
+332,1371024,"April 14, 2019",California,Vallejo,100 block of Princeton Ave,1,3,https://www.timesheraldonline.com/2019/04/15/more-information-sought-on-vallejos-fourth-homicide-of-2019/
+333,1371065,"April 14, 2019",California,Stockton,2539 E Main St,0,4,https://www.kcra.com/article/4-hurt-stockton-bar-shooting-police/27140962
+334,1374920,"April 13, 2019",California,Moreno Valley,23500 block of Alessandro Blvd,0,4,https://www.sbsun.com/2019/04/17/four-people-injured-in-weekend-shooting-at-business-in-moreno-valley/
+335,1370269,"April 12, 2019",Illinois,Carbondale,119 N Washington St,0,4,https://wsiltv.com/2021/01/20/pullen-sentenced-to-84-years-in-prison-for-shooting-outside-tres-hombres/
+336,1368597,"April 11, 2019",Maryland,Baltimore,2200 block of Ruskin Ave,1,3,https://www.facebook.com/pg/BaltimoreCityPolice/posts/?ref=page_internal
+337,1369109,"April 11, 2019",California,Los Angeles,E 103rd St and S Main St,1,4,https://www.nbclosangeles.com/news/local/Coroner-IDs-Man-Killed-In-Shooting-Near-Nipsey-Hussle-Funeral-Route-508570441.html
+338,1369148,"April 11, 2019",Arizona,Phoenix,7112 W Minnezona Ave,3,2,https://www.azcentral.com/story/news/local/phoenix/2020/02/26/austin-smith-phoenix-man-sentenced-killing-wife-2-kids-alleged-affair/4875148002/
+339,1367011,"April 9, 2019",Missouri,Kansas City,5339 Michigan Ave,1,3,https://fox2now.com/2019/04/27/missouri-father-dies-after-saving-friends-toddler-from-gunfire-at-picnic/?fbclid=IwAR3lGCvxRDYZhfM6j4Z5JrSrVn3pjg6kvCEOGnwtyePbeyVYqL0FUqAEaGY
+340,1365052,"April 7, 2019",North Carolina,Winston Salem (Winston-salem),515 N Cherry St,0,7,https://www.wfmynews2.com/article/news/crime/police-arrest-man-tied-to-shooting-outside-winston-salem-bar-that-left-6-people-injured-investigators-say/83-b0b758a1-3e38-493e-bd14-424de48dc10b
+341,1365077,"April 7, 2019",Indiana,Indianapolis,3600 block of Roosevelt Ave,2,2,https://fox59.com/2019/04/08/6-people-killed-in-violent-24-hours-in-indy-identified/
+342,1365173,"April 7, 2019",Delaware,Wilmington,940 N Pine St,0,6,https://www.delawareonline.com/story/news/2019/04/08/four-teenagers-among-six-shot-wilmington-police-say/3400451002/
+343,1365100,"April 7, 2019",Louisiana,Shreveport,433 Flournoy Lucas Rd,0,4,http://rssfeeds.shreveporttimes.com/~/604060198/0/shreveport/news~Caddo-DA-Shreveport-teen-to-be-tried-as-adult-in-April-driveby-shooting/?fbclid=IwAR3f-FXnI42eCJDuPIHEbdkImW_wqeZFN43mvGv9mc-1wt0BmNvohtL4-aQ
+344,1364443,"April 6, 2019",Florida,Tallahassee,500 block of Kissimmee St,0,4,https://www.wctv.tv/content/news/Tallahassee-Police-Department-investigates-shooting-on-Kissimmee-Street-508207551.html
+345,1364540,"April 6, 2019",Illinois,Chicago,6300 block of S Seeley Ave,0,6,https://chicago.suntimes.com/news/8-shot-including-2-children-at-birthday-party-englewood/
+346,1363737,"April 4, 2019",Florida,Panama City,100 block of Allen Ave,1,3,https://www.newsherald.com/news/20190510/hunt-charged-with-murder-attempted-murder-x3-in-cove-quadruple-shooting
+347,1362715,"April 4, 2019",Georgia,Stockbridge,300 block of Eagle Ct,3,2,https://www.ajc.com/news/crime--law/breaking-police-officer-reported-shot-henry-county/lZkof8AaME82ET81sfXQ5L/
+348,1362364,"April 2, 2019",Mississippi,Hermanville,13195 MS 18,0,4,https://www.wjtv.com/news/local-news/lydell-page-turns-himself-in-after-deputies-say-he-shot-four-people/1897600353
+349,1362182,"April 2, 2019",Kentucky,Covington,337 E 13th St,0,5,https://www.wtvq.com/2020/11/10/drive-by-shooting-sends-two-men-to-prison-for-20-years/
+350,1360333,"March 31, 2019",Georgia,Atlanta,3041 Landrum Dr SW,1,4,https://www.11alive.com/article/news/crime/house-party-leaves-1-dead-4-injured-in-southwest-atlanta/85-8a1471a4-6f74-4d42-aa04-3cdf5d5b6d82
+351,1359599,"March 31, 2019",South Carolina,North Charleston,1900 block of Jacksonville Rd,0,7,https://www.live5news.com/2019/06/02/man-accused-opening-fire-north-charleston-party-denied-bond/
+352,1359455,"March 31, 2019",Illinois,Chicago,500 block of N Hamlin Ave,1,4,https://wgntv.com/2019/03/31/1-dead-4-wounded-in-east-garfield-park-shooting/
+353,1357591,"March 28, 2019",Maryland,Baltimore,6200 block of Boston St,0,4,https://www.wbaltv.com/article/quadruple-shooting-in-southeast-baltimore-police-say/26977950
+354,1355275,"March 25, 2019",Nevada,North Las Vegas,2400 block of W San Miguel St,0,5,https://www.autobreakingnews.com/2019/05/teens-indicted-in-north-las-vegas-shooting-that-injured-7/
+355,1353714,"March 24, 2019",California,San Francisco,1300 Fillmore St,1,5,https://sfist.com/2019/03/28/fillmore-shooting-suspects-no-murder-charges/
+356,1354049,"March 24, 2019",Arizona,Phoenix,2202 W McDowell Rd,0,7,https://yourvalley.net/yourvalley/first-responders/suspect-arrested-in-shooting-that-injured-7-outside-phoenix-warehouse/
+357,1350494,"March 19, 2019",Arizona,Phoenix,8526 N 27th Ave,2,4,https://www.azcentral.com/story/news/local/phoenix-breaking/2019/03/20/phoenix-police-identify-man-suspected-shooting-6-people/3221734002/
+358,1348844,"March 17, 2019",Georgia,Augusta,900 block of Broad St,0,4,https://www.wrdw.com/content/news/Four-men-injured-one-man-in-custody-after-Broad-Street-shooting-507269801.html
+359,1349256,"March 17, 2019",Georgia,Rochelle,Dennis St,1,3,https://www.walb.com/2019/04/11/judge-denies-bond-suspects-rochelle-death-case/
+360,1348793,"March 17, 2019",Nevada,Las Vegas,600 E Fremont St,0,4,https://www.reviewjournal.com/crime/courts/3-suspects-in-el-cortez-shooting-appear-before-las-vegas-judge-1620744/
+361,1347974,"March 16, 2019",New Jersey,Camden,619 Ferry Ave,1,3,http://newjersey.news12.com/story/40138932/1-killed-3-wounded-in-residential-speakeasy-shooting
+362,1348291,"March 15, 2019",Alabama,Mobile,515 Dauphin Island Pkwy,2,4,https://www.wkrg.com/mobile-county/prosecutor-says-dauphin-island-parkway-double-murder-was-over-dice-game/
+363,1347894,"March 14, 2019",Montana,Missoula,5145 Airway Blvd,1,3,https://www.abcfoxmontana.com/missoula/trooper-involved-in-early-morning-shooting-being-transferred-to-salt/article_30a8a804-4739-11e9-b78b-3b661e8380ea.html
+364,1344488,"March 11, 2019",New Jersey,Paterson,291 12th Ave,0,4,https://www.nbcnewyork.com/news/local/4-Men-Shot-In-Paterson-New-Jersey-Prosecutors-Say-507014191.html
+365,1343330,"March 10, 2019",Louisiana,Shreveport,2700 block of San Jacinto Ave,0,4,https://www.ksla.com/2019/03/11/spd-identifies-victims-sundays-drive-by-shooting-suspect-sought/
+366,1343274,"March 10, 2019",Colorado,Denver,15th St and Market St,1,4,https://www.thedenverchannel.com/news/local-news/denver-police-announce-arrests-in-separate-downtown-homicide-cases
+367,1338860,"March 3, 2019",California,Oakland,316 14th St,0,4,https://www.eastbaytimes.com/2019/03/15/man-charged-in-shooing-of-four-people-at-oakland-sports-bar/
+368,1338765,"March 3, 2019",Illinois,Chicago,2900 block of E 79th St,0,6,https://chicago.suntimes.com/news/6-shot-inside-south-side-bar/
+369,1338790,"March 2, 2019",Arkansas,Pine Bluff,723 East 25th Ave,1,4,https://www.arkansasonline.com/news/2019/mar/03/police-shots-fired-pine-bluff-home-kill-1-injure-4/?utm_campaign=magnet&utm_source=main_page&utm_medium=recommended_articles
+370,1337498,"February 28, 2019",California,Oakland,9755 Edes Ave,1,3,https://www.eastbaytimes.com/2019/03/12/man-fatally-shot-in-east-oakland-feb-28-is-identified/?fbclid=IwAR1cuKzWEapZYjgucwRygY2HIBULKH6AjTN4EquMJt8x6h_3-PBpr0fQIL8
+371,1333480,"February 22, 2019",Alabama,Birmingham,1100 block of Carnation Dr,2,2,https://abc3340.com/news/local/4-shot-2-dead-overnight-in-east-alabama
+372,1331974,"February 21, 2019",Maryland,Baltimore,500 block of Bloom St,1,4,https://www.baltimoresun.com/news/crime/bs-md-ci-violence-follow-20190222-story.html
+373,1332507,"February 21, 2019",Kentucky,Elizabethtown,600 N Miles St,2,2,http://www.wave3.com/2019/02/25/man-charged-elizabethtown-shooting-deaths-pleads-not-guilty/
+374,1332429,"February 21, 2019",Texas,Houston,12800 block of Eastbrook Dr,2,2,https://www.star-telegram.com/news/state/texas/article226886004.html
+375,1332181,"February 20, 2019",Tennessee,Covington,529 N College St,0,4,http://www.covingtonleader.com/news/police_fire/covington-mayor-says-wednesday-s-shooting-spree-was-domestic-terrorism/article_2a29ec0c-361f-11e9-a1d1-db46145cf44d.html
+376,1329144,"February 17, 2019",Texas,Henderson,504 S Van Buren St,2,2,https://www.news-journal.com/news/county/rusk/rusk-county-man-indicted-on-capital-murder-charge-after-double/article_abf1ccc2-5560-11e9-84b3-9fbba5dc02f8.html
+377,1328792,"February 17, 2019",Indiana,Evansville,664 E Illinois St,0,5,https://www.courierpress.com/story/news/crime/2019/02/18/evansville-mass-shooting-suspects-bond-set-half-million-dollars/2905354002/
+378,1329075,"February 17, 2019",Louisiana,New Orleans,Tulane Ave and Elk Pl,1,5,https://www.khou.com/article/news/crime/suspect-killed-in-shootout-with-new-orleans-police-was-houston-gang-member/285-9af09754-965c-4a1d-8f4a-c032c1e8a45d
+379,1328562,"February 16, 2019",Mississippi,Clinton,1214 Foxhill Dr,5,0,https://www.nola.com/news/2019/02/houma-doctor-among-dead-in-mississippi-hostage-standoff-report.html
+380,1327321,"February 15, 2019",Illinois,Aurora,641 Archer Ave,6,6,https://chicago.cbslocal.com/2019/02/19/aurora-mass-shooting-survivor-timothy-williams/
+381,1324279,"February 11, 2019",Texas,Livingston,3628 FM 3126,5,0,http://montgomerycountypolicereporter.com/investigators-give-new-details-on-bodies-found-at-polk-county-ranch/?fbclid=IwAR032CsYXK3pxhGFdDp88SlLE02wmxd1Qb21gdrlCnEgYkzp8mF5ddTrncw
+382,1323448,"February 9, 2019",Virginia,Petersburg,109 Perry St,0,4,https://wtvr.com/2019/02/10/perry-street-lofts-quadruple-shooting/
+383,1321021,"February 6, 2019",New York,Brooklyn,1778 Fulton St,1,3,https://www.nydailynews.com/new-york/nyc-crime/ny-metro-brooklyn-man-dead-lobby-20190207-story.html
+384,1321093,"February 5, 2019",Texas,San Antonio,538 Hot Wells Blvd,2,2,https://www.mysanantonio.com/news/local/article/Suspect-in-double-homicide-arrested-swallowed-13599818.php?fbclid=IwAR3Pbid7vIXKjBxqEDxASC86Mne0NTekqtnu-gB9JIjVqcvxXiiMvi6q9oI
+385,1319333,"February 4, 2019",District of Columbia,Washington,2341 Pennsylvania Ave SE,0,5,https://www.fox5dc.com/news/dc-man-arrested-suspected-of-shooting-young-girl-and-4-others-at-bus-stop
+386,1319325,"February 4, 2019",Louisiana,Baton Rouge,4000 block of Topeka St,0,4,https://www.theadvocate.com/baton_rouge/news/crime_police/article_d113c776-2879-11e9-81dd-13f2ca59d3ca.html
+387,1318391,"February 3, 2019",Illinois,Chicago,938 E 75th St,2,5,https://wgntv.com/2019/02/03/2-dead-5-injured-after-shooting-outside-south-side-bar/
+388,1320286,"February 3, 2019",California,Palm Springs,E Sunny Dunes Rd and El Placer Rd,4,0,https://www.desertsun.com/story/news/crime_courts/2019/03/14/palm-springs-quadruple-homicide-suspects-trial-date-set-psych-exam-ordered/3152184002/
+389,1318187,"February 1, 2019",California,San Diego,6800 block of Springfield St,0,4,https://www.10news.com/news/local-news/new-video-reveals-moments-before-house-party-shooting
+390,1314289,"January 28, 2019",Texas,Houston,7815 Harding St,2,5,https://www.statesman.com/news/20190823/former-houston-police-officer-charged-with-murder-over-raid/1?rssfeed=true
+391,1314253,"January 27, 2019",Alabama,Birmingham,Avenue O and Warrior Rd,0,5,http://www.trussvilletribune.com/2019/01/28/5-people-shot-in-birmingham-on-sunday-night/
+392,1312391,"January 26, 2019",Georgia,Albany,300 block of W Roosevelt,0,4,https://wfxl.com/news/local/investigation-underway-after-four-males-shot-sunday-morning
+393,1312284,"January 26, 2019",Louisiana,Gonzales,42350 Church Point Rd,5,0,https://www.klfy.com/louisiana/august-trial-set-for-livingston-parish-man-accused-of-killing-5/
+394,1312463,"January 26, 2019",Indiana,Indianapolis,2957 N Sherman Dr,0,5,https://www.wthr.com/article/victim-bar-shooting-came-face-face-shooting-suspect
+395,1313291,"January 26, 2019",New Jersey,Newark,612 Bergen St,1,3,https://www.nj.com/crime/2019/02/16-year-old-girl-shot-while-mourning-at-a-candlelight-vigil-dies.html
+396,1310775,"January 24, 2019",Pennsylvania,State College,1450 S Atherton St,4,1,https://www.wearecentralpa.com/news/breaking-police-release-new-details-in-state-college-shooting-and-say-it-was-random/1897661326
+397,1310397,"January 24, 2019",Georgia,Rockmart,319 Williamson St,4,1,https://www.ajc.com/news/crime--law/continuing-coverage-seek-death-penalty-polk-county-quadruple-homicide/R77zeNus9cl778lYsHe3jN/
+398,1309114,"January 23, 2019",Florida,Sebring,1901 US 27 S,5,0,https://www.wfla.com/news/highlands-county/5-killed-inside-sebring-bank-suspected-gunman-arrested/
+399,1306920,"January 20, 2019",Florida,Miami,26133 SW 139th Ave,0,4,https://www.local10.com/news/crime/4-wounded-during-block-party-shooting-in-southwest-miami-dade
+400,1305563,"January 19, 2019",Pennsylvania,Lebanon,1140 Church St,0,4,https://www.pennlive.com/news/2019/05/harrisburg-man-wanted-in-attempted-homicide-arrested-in-york-county-police.html
+401,1305679,"January 19, 2019",South Carolina,Gaffney,1435 Wilcox Ave,1,4,https://www.shelbystar.com/news/20190131/shelby-man-charged-with-murder-others-at-large
+402,1305516,"January 19, 2019",Illinois,Chicago,4400 block of W Madison St,0,4,https://chicago.suntimes.com/2019/1/19/18320452/3-women-1-man-shot-on-west-garfield-park-street
+403,1305538,"January 19, 2019",Florida,Jacksonville,11445 Brian Lakes Drive,3,2,https://www.news4jax.com/news/local/jacksonville/2-survivors-of-westside-murder-suicide-still-hospitalized
+404,1305294,"January 19, 2019",Texas,Houston,7041 Sherman St,3,2,https://www.chron.com/news/houston-texas/article/Three-dead-after-East-Houston-home-invasion-13546708.php
+405,1303486,"January 17, 2019",Kentucky,Owensboro,940 Audubon Ave,3,1,http://www.14news.com/2019/01/18/names-released-quadruple-owensboro-shooting/
+406,1302060,"January 16, 2019",Florida,Jacksonville,Emerson St and Spring Park Rd,1,5,https://www.news4jax.com/news/local/jacksonville/father-wants-justice-not-more-violence-after-25-year-old-killed-in-mass-shooting
+407,1303303,"January 16, 2019",California,Palmdale,Ranch Center Dr and 40th St W,3,1,https://local.nixle.com/alert/7262614/
+408,1301778,"January 15, 2019",Arkansas,Little Rock,5420 Baseline Rd,1,4,https://katv.com/news/local/man-arrested-in-connection-with-shooting-outside-little-rock-ice-cream-shop
+409,1299680,"January 13, 2019",Arizona,Phoenix,2445 E Van Buren St,1,5,https://www.azcentral.com/story/news/local/phoenix/2019/01/14/police-id-18-year-old-woman-killed-phoenix-hotel-shooting/2577039002/
+410,1295294,"January 6, 2019",New Mexico,Roswell,1300 block of W College Blvd,0,4,https://www.krqe.com/news/new-mexico/roswell-police-arrest-man-connected-to-shooting-that-injured-four/
+411,1292684,"January 4, 2019",Virginia,Hurt,3197 Shula Dr,3,2,https://www.wric.com/news/local-news/3-dead-2-injured-after-shooting-in-pittsylvania-county-victims-identified/1687683070
+412,1293054,"January 4, 2019",California,Torrance,22501 Hawthorne Blvd,3,4,https://www.nbclosangeles.com/news/local/Pleads-Not-Guilty-to-Triple-Killing-at-Bowling-Alley-in-Torrance-507369981.html
+413,1292941,"January 3, 2019",Arizona,Yuma,3800 block of E County 18½ St,1,3,https://gunwatch.blogspot.com/2020/10/akm-semi-automatic-rifle-used-to-defend.html
+414,1291779,"January 2, 2019",Arkansas,Jonesboro,3516 Galaxy St,1,3,http://www.kait8.com/2019/01/03/officers-way-shooting-scene/
+415,1289877,"January 1, 2019",South Carolina,Columbia,1709 Decker Blvd,0,5,https://www.abccolumbia.com/2019/01/02/faces-lounge-shooting-shows-irresponsible-club-ownership-according-to-rcsd/
+416,1289618,"January 1, 2019",Florida,Tallahassee,2020 W Pensacola St,0,5,http://www.wtxl.com/news/five-people-injured-after-new-year-s-day-shooting-on/article_f53dd722-0dd0-11e9-9389-0b4904208539.html

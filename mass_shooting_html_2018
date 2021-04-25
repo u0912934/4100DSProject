@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.gunviolencearchive.org/sites/default/files/favicon.png" type="image/png" />
+<meta property="og:description" content="Gun Violence Archive (GVA) is a not for profit corporation formed in 2013 to provide free online public access to accurate information about gun-related violence in the United States. GVA will collect and check for accuracy, comprehensive information about gun-related violence in the U.S. and then post and disseminate it online." />
+<title>Mass Shootings in 2018 | Gun Violence Archive</title>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GunDeaths">
+<meta name="twitter:creator" content="@GunDeaths">
+<meta name="twitter:title" content="Gun Violence Archive">
+<meta name="twitter:description" content="Near real-time tweets of American gun violence incidents. Non-profit. Non-advocacy. Just the facts." <meta name="twitter:image" content="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/images/share-logo.jpg">
+<meta property="og:image" content="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/images/share-logo.jpg" />
+<style type="text/css" media="all">
+@import url("https://www.gunviolencearchive.org/modules/system/system.base.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/system/system.menus.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/system/system.messages.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/system/system.theme.css?qpfau1");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.gunviolencearchive.org/sites/all/modules/contrib/date/date_api/date.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/field/theme/field.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/node/node.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/user/user.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/sites/all/modules/contrib/views/css/views.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/sites/all/modules/contrib/ckeditor/css/ckeditor.css?qpfau1");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.gunviolencearchive.org/sites/all/modules/contrib/ctools/css/ctools.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/sites/all/themes/gva_theme/compiled/default.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/sites/all/themes/gva_theme/compiled/font-awesome.min.css?qpfau1");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css" media="all" />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js?qpfau1"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js?qpfau1"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js?qpfau1"></script>
+<script type="text/javascript" src="https://www.gunviolencearchive.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.gunviolencearchive.org/misc/drupal.js?qpfau1"></script>
+<script type="text/javascript" src="https://www.gunviolencearchive.org/misc/tableheader.js?qpfau1"></script>
+<script type="text/javascript" src="https://www.gunviolencearchive.org/sites/all/modules/contrib/google_analytics/googleanalytics.js?qpfau1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-56234107-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/compiled/default-head.js?qpfau1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gva_theme","theme_token":"8zP0-gWr6QT_XyiuoqjzzD9RSUxV4uZs0R-p7ljTppg","js":{"sites\/all\/themes\/gva_theme\/compiled\/default-foot.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.2.0\/jquery.min.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.11.4\/jquery-ui.min.js":1,"\/\/cdnjs.cloudflare.com\/ajax\/libs\/timepicker\/1.3.5\/jquery.timepicker.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/tableheader.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/gva_theme\/compiled\/default-head.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/gva_theme\/compiled\/default.css":1,"sites\/all\/themes\/gva_theme\/compiled\/font-awesome.min.css":1,"\/\/cdnjs.cloudflare.com\/ajax\/libs\/timepicker\/1.3.5\/jquery.timepicker.min.css":1}},"urlIsAjaxTrusted":{"\/reports\/mass-shooting?year=2018":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+		<!--//--><![CDATA[//><!--
+		var switchTo5x = true;
+		//--><!]]>
+	</script>
+
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="html not-front not-logged-in no-sidebars page-query page-query-0484b316-f676-44bc-97ed-ecefeabae077">
+<header>
+<div class="row">
+<div class="large-12 columns">
+<div id="header-logo">
+<a href="/">
+<span class="branding-logo"><img src="/sites/all/themes/gva_theme/images/new-logo.jpg" alt="Gun Violence Archive" />
+<span class="logo-text"><i>GUN VIOLENCE</i> ARCHIVE</span></span>
+</a>
+</div>
+<nav id="header-nav">
+<div class="wrapper">
+<div class="region region-header">
+<div id="block-gva-general-header-new-entry" class="block block-gva-general">
+</div>
+<div id="block-gva-general-header-login" class="block block-gva-general">
+<a href="/user/login"><strong>Login</strong></a></div>
+<div id="block-gva-general-header-contact-us" class="block block-gva-general">
+<a href="/contact">Contact Us</a></div>
+<div id="block-gva-general-header-search-button" class="block block-gva-general">
+<div class="search"><a href="/query"><img typeof="foaf:Image" src="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/images/icons/search.png" alt="Search" /><span>Search Database</span></a></div>
+</div>
+<div id="block-gva-general-header-social" class="block block-gva-general">
+<div class="item-list"><ul class="social medium-text-right small-text-left"><li class="first"><a href="https://www.facebook.com/gunviolencearchive" class="facebook" target="_blank">Facebook</a></li>
+<li class="last"><a href="https://twitter.com/gundeaths" class="twitter" target="_blank">Twitter</a></li>
+</ul></div></div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<nav class="top-bar" role="navigation">
+<div id="main-nav-mobile-btn" class="top-bar-title hide-for-large">
+<div class="mobile-btn">
+<span data-responsive-toggle="main-nav" data-hide-for="large">
+<button class="menu-icon light" type="button" data-toggle>MENU</button>
+</span>
+</div>
+</div>
+<div id="main-nav">
+<div class="wrapper">
+<div class="navigation">
+<div class="region region-navigation">
+<div id="block-gva-general-gva-navigation" class="block block-gva-general">
+<ul class="inline-list menu"><li class="first leaf depth-1"><a href="/">Home</a></li>
+<li class="leaf depth-1"><a href="/charts-and-maps" title="">Charts &amp; Maps</a></li>
+<li class="leaf depth-1"><a href="/last-72-hours" title="">Last 72 Hours</a></li>
+<li class="leaf depth-1"><a href="/reports" title="">Reports</a></li>
+<li class="leaf depth-1"><a href="/explainer" title="">Explainer</a></li>
+<li class="expanded has-children depth-1 has-submenu"><a href="/about">About Us</a><ul class="submenu"><li class="first last leaf depth-2"><a href="/methodology">Methodology</a></li>
+</ul>
+</li>
+<li class="leaf depth-1"><a href="/past-tolls" title="">Past Years</a></li>
+<li class="last leaf depth-1"><a href="/congress" title="">Congressional Reports</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<section id="content">
+<div class="row">
+<div class="main-content">
+<div class="small-12 columns">
+<h1 class="border-background">
+<span>Mass Shootings in 2018</span>
+</h1>
+<div class="links-container ">
+<h2 class="element-invisible">Primary tabs</h2><ul class="align-right link-list tabs-primary"><li class="active"><a href="/reports/mass-shooting?year=2018" class="button active">View Results<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="/query/0484b316-f676-44bc-97ed-ecefeabae077/export-csv?year=2018" class="button">Export as CSV</a></li>
+<li><a href="/query/0484b316-f676-44bc-97ed-ecefeabae077/map?year=2018" class="button">Interactive Map</a></li>
+</ul> </div>
+<div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<form action="/reports/mass-shooting?year=2018" method="post" id="gva-entry-results-limiter" accept-charset="UTF-8"><div><p></p><input type="hidden" name="form_build_id" value="form-yi1t4hDIGOf1FaXOJBPmyX4mwZe-iX5_1xNvJb5IU2o" />
+<input type="hidden" name="form_id" value="gva_entry_results_limiter" />
+</div></form><section class="row"><div class="small-12 columns"><table class="responsive sticky-enabled">
+<thead><tr><th column="Base.IncidentID"><a href="/reports/mass-shooting?year=2018&amp;sort=asc&amp;order=Incident%20ID" title="sort by Incident ID" class="active">Incident ID</a></th><th column="Base.IncidentDate" class="active"><a href="/reports/mass-shooting?year=2018&amp;sort=asc&amp;order=Incident%20Date" title="sort by Incident Date" class="active">Incident Date<img typeof="foaf:Image" src="https://www.gunviolencearchive.org/misc/arrow-asc.png" width="13" height="13" alt="sort ascending" title="sort ascending" /></a></th><th column="Location.State"><a href="/reports/mass-shooting?year=2018&amp;sort=asc&amp;order=State" title="sort by State" class="active">State</a></th><th column="Location.CityOrCounty"><a href="/reports/mass-shooting?year=2018&amp;sort=asc&amp;order=City%20Or%20County" title="sort by City Or County" class="active">City Or County</a></th><th column="Location.Address"><a href="/reports/mass-shooting?year=2018&amp;sort=asc&amp;order=Address" title="sort by Address" class="active">Address</a></th><th column="Counts.NumberOfParticipantsKilled"><a href="/reports/mass-shooting?year=2018&amp;sort=asc&amp;order=%23%20Killed" title="sort by # Killed" class="active"># Killed</a></th><th column="Counts.NumberOfParticipantsInjured"><a href="/reports/mass-shooting?year=2018&amp;sort=asc&amp;order=%23%20Injured" title="sort by # Injured" class="active"># Injured</a></th><th column="Base.IncidentOperations">Operations</th> </tr></thead>
+<tbody>
+<tr class="odd"><td>1289686</td><td>December 31, 2018</td><td>Ohio</td><td>Cleveland</td><td>4462 Denison Ave</td><td>3</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1289686">View Incident</a></li>
+<li class="1 last"><a href="https://www.cleveland.com/metro/2019/08/olympic-gold-medalist-simone-biles-brother-charged-in-cleveland-triple-homicide.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1288376</td><td>December 29, 2018</td><td>Ohio</td><td>Lima</td><td>904 S Main St</td><td>1</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1288376">View Incident</a></li>
+<li class="1 last"><a href="https://www.limaohio.com/news/347725/pickerington-man-charged-in-lima-shooting-death" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1287286</td><td>December 28, 2018</td><td>Missouri</td><td>Saint Charles</td><td>150 Whetstone Dr</td><td>4</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1287286">View Incident</a></li>
+<li class="1 last"><a href="https://kplr11.com/2018/12/29/police-searching-for-suspect-in-deadly-shooting-in-st-charles-city/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1284586</td><td>December 24, 2018</td><td>Louisiana</td><td>Lutcher</td><td>2176 Main St</td><td>2</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1284586">View Incident</a></li>
+<li class="1 last"><a href="https://www.theadvocate.com/baton_rouge/news/article_0d65761e-2985-11e9-8957-1bc027aefe56.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1283229</td><td>December 23, 2018</td><td>Missouri</td><td>Springfield</td><td>1042 W College St</td><td>1</td><td>6</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1283229">View Incident</a></li>
+<li class="1 last"><a href="https://fox2now.com/2019/01/25/man-who-hosted-party-where-8-were-shot-faces-federal-charge/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1282704</td><td>December 22, 2018</td><td>Nevada</td><td>Las Vegas</td><td>3528 S Maryland Pkwy</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1282704">View Incident</a></li>
+<li class="1 last"><a href="https://www.reviewjournal.com/crime/shootings/4-injured-in-shooting-during-holiday-party-at-las-vegas-mall-1557230/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1279617</td><td>December 18, 2018</td><td>Maryland</td><td>Baltimore</td><td>3942 Park Heights Ave</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1279617">View Incident</a></li>
+<li class="1 last"><a href="https://www.wbaltv.com/article/man-charged-with-attempted-murder-in-connection-with-quintuple-shooting-outside-deli/25858663" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1277327</td><td>December 15, 2018</td><td>Florida</td><td>Miami</td><td>239 NW 16th St</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1277327">View Incident</a></li>
+<li class="1 last"><a href="https://www.miamiherald.com/news/local/community/miami-dade/article223152525.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1277411</td><td>December 14, 2018</td><td>Colorado</td><td>Colorado Springs</td><td>700 block of Geiger Ct</td><td>1</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1277411">View Incident</a></li>
+<li class="1 last"><a href="https://www.kktv.com/content/news/One-dead-three-injured-after-shooting-in-eastern-Colorado-Springs.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1276091</td><td>December 13, 2018</td><td>Pennsylvania</td><td>Philadelphia</td><td>4505 N Broad St</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1276091">View Incident</a></li>
+<li class="1 last"><a href="https://www.nbcphiladelphia.com/news/local/Philadelphia-Shooting-Barbershop-Hunting-Park-502739792.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1276298</td><td>December 11, 2018</td><td>Louisiana</td><td>Natchitoches</td><td>Caspari St and University Pkwy</td><td>1</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1276298">View Incident</a></li>
+<li class="1 last"><a href="https://www.thetowntalk.com/story/news/2018/12/12/3-wounded-1-dead-natchitoches-shooting/2288271002/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1272855</td><td>December 9, 2018</td><td>Wisconsin</td><td>Madison</td><td>3554 E Washington Ave</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1272855">View Incident</a></li>
+<li class="1 last"><a href="https://www.channel3000.com/news/crime/2nd-man-arrested-in-connection-with-visions-strip-club-shooting/929094891" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1273161</td><td>December 8, 2018</td><td>California</td><td>Inglewood</td><td>801 S Inglewood Ave</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1273161">View Incident</a></li>
+<li class="1 last"><a href="https://ktla.com/2018/12/09/5-people-including-2-boys-hurt-in-car-to-car-shooting-in-inglewood-area-officials/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1272106</td><td>December 8, 2018</td><td>New York</td><td>Corona (Queens)</td><td>89-25 130th St</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1272106">View Incident</a></li>
+<li class="1 last"><a href="https://nypost.com/2021/02/10/ex-con-who-led-cops-on-car-chase-facing-federal-raps/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1267682</td><td>December 1, 2018</td><td>Florida</td><td>Miami</td><td>NW Fifth Ave and NW Eighth St</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1267682">View Incident</a></li>
+<li class="1 last"><a href="https://www.local10.com/news/local/miami/multiple-people-shot-in-overtown-miami-police-say" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1266937</td><td>November 26, 2018</td><td>Tennessee</td><td>Powell</td><td>Tammy Dr</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1266937">View Incident</a></li>
+<li class="1 last"><a href="https://www.wate.com/news/local-news/second-suspect-arrested-and-charged-with-attempted-murder-of-4-in-powell-shooting/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1262814</td><td>November 25, 2018</td><td>Alabama</td><td>Demopolis</td><td>Floyd St and Field St</td><td>2</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1262814">View Incident</a></li>
+<li class="1 last"><a href="https://www.al.com/crime/2018/11/two-dead-two-injured-in-sunday-morning-shooting.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1263332</td><td>November 25, 2018</td><td>California</td><td>Oakland</td><td>1000 block of 24th St</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1263332">View Incident</a></li>
+<li class="1 last"><a href="https://www.eastbaytimes.com/2018/11/26/four-shot-at-west-oakland-vigil/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1263086</td><td>November 25, 2018</td><td>Texas</td><td>Houston</td><td>4500 block of Yale St</td><td>1</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1263086">View Incident</a></li>
+<li class="1 last"><a href="https://abc13.com/young-mother-shields-children-from-shooter-with-assault-rifle/4800399/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1262013</td><td>November 23, 2018</td><td>Florida</td><td>Miami</td><td>5801 NW 27th Ave</td><td>2</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1262013">View Incident</a></li>
+<li class="1 last"><a href="https://www.local10.com/news/florida/miami-dade/police-searching-for-pair-of-gunmen-in-fatal-shooting-outside-mini-mart" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1261351</td><td>November 22, 2018</td><td>Indiana</td><td>Fort Wayne</td><td>6100 block of Downingtown Dr</td><td>3</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1261351">View Incident</a></li>
+<li class="1 last"><a href="https://journalgazette.net/article/20190910/WEB/190919996" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1260525</td><td>November 21, 2018</td><td>Missouri</td><td>Saint Louis</td><td>4200 block of Shreve Ave</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1260525">View Incident</a></li>
+<li class="1 last"><a href="https://www.stltoday.com/news/local/crime-and-courts/four-people-injured-in-shooting-in-penrose-neighborhood/article_8c775e3b-9308-5b4b-b7f3-32ba2411c718.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1258777</td><td>November 19, 2018</td><td>Colorado</td><td>Denver</td><td>1200 21st Street</td><td>1</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1258777">View Incident</a></li>
+<li class="1 last"><a href="https://denver.cbslocal.com/2018/11/27/deadly-shooting-lawrence-terrance-wardlow/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>1258804</td><td>November 19, 2018</td><td>Pennsylvania</td><td>Philadelphia</td><td>5100 block of Malcolm St</td><td>4</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1258804">View Incident</a></li>
+<li class="1 last"><a href="https://www.wpxi.com/news/national/2-men-sentenced-decades-prison-pa-murders-4-basement/SD7WMNKCIRBBRPDGAHC7QJSLJM/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>1258009</td><td>November 18, 2018</td><td>California</td><td>Los Angeles (Watts)</td><td>95th St and Defiance Ave</td><td>1</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/1258009">View Incident</a></li>
+<li class="1 last"><a href="https://www.youtube.com/watch?v=x_LJ8mU-jGM" target="_blank">View Source</a></li>
+</ul></td> </tr>
+</tbody>
+</table>
+</div></section><h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/reports/mass-shooting?page=1&amp;year=2018">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/reports/mass-shooting?page=2&amp;year=2018">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/reports/mass-shooting?page=3&amp;year=2018">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/reports/mass-shooting?page=4&amp;year=2018">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/reports/mass-shooting?page=5&amp;year=2018">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/reports/mass-shooting?page=6&amp;year=2018">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/reports/mass-shooting?page=7&amp;year=2018">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/reports/mass-shooting?page=8&amp;year=2018">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/reports/mass-shooting?page=1&amp;year=2018">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/reports/mass-shooting?page=13&amp;year=2018">last »</a></li>
+</ul></div></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer>
+<div class="row">
+<div class="large-4 medium-4 medium-uncentered small-centered columns">
+<a class="clearfix display-block" href="/">
+<span class="branding-logo"><img src="/sites/all/themes/gva_theme/images/new-logo.jpg" alt="Gun Violence Archive" />
+<span class="logo-text"><i>GUN VIOLENCE</i> ARCHIVE</span></span>
+</a>
+<div class="region region-footer-left">
+<div id="block-gva-general-footer-address" class="block block-gva-general">
+<div class="address-items row"><div class="small-6 columns"><p>1133 Connecticut Avenue, NW<br />
+Washington, DC 20036<br />
+<a href="/cdn-cgi/l/email-protection#aac3c4dbdfc3d8d3eacddccb84dfd984c9c5c7"><span class="__cf_email__" data-cfemail="ea83849b9f839893aa8d9c8bc49f99c4898587">[email&#160;protected]</span></a></p>
+</div>
+<div class="small-6 columns"><p>© Copyright 2021<br />
+Gun Violence Archive<br />
+All rights reserved.</p>
+</div>
+</div></div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="large-4 medium-5 medium-uncentered small-centered columns center-column">
+<div class="region region-footer-center">
+<div id="block-gva-general-footer-navigation" class="block block-gva-general">
+<div class="columns-container"><ul class="column column-0"><li class="first leaf depth-1"><a href="/">Home</a></li>
+<li class="leaf depth-1"><a href="/charts-and-maps" title="">Charts and Maps</a></li>
+<li class="leaf depth-1"><a href="/last-72-hours" title="">Last 72 Hours</a></li>
+<li class="leaf depth-1"><a href="/reports" title="">Reports</a></li>
+<li class="leaf depth-1"><a href="/explainer" title="">Explainer</a></li>
+</ul>
+<ul class="column column-1"><li class="leaf depth-1"><a href="/methodology" title="">Methodology</a></li>
+<li class="leaf depth-1"><a href="/about" title="">About Us</a></li>
+<li class="leaf depth-1"><a href="/past-tolls" title="">Past Years</a></li>
+<li class="leaf depth-1"><a href="/congress" title="">Congressional-Reports</a></li>
+<li class="last leaf depth-1"><a href="/user/login">Log In</a></li>
+</ul>
+</div></div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="large-4 medium-3 medium-uncentered small-centered columns">
+<div class="region region-footer-right">
+<div id="block-gva-general-footer-social" class="block block-gva-general">
+<div class="item-list"><ul class="social medium-text-right small-text-left"><li class="first"><a href="https://www.facebook.com/gunviolencearchive" class="facebook" target="_blank">Facebook</a></li>
+<li class="last"><a href="https://twitter.com/gundeaths" class="twitter" target="_blank">Twitter</a></li>
+</ul></div></div>
+</div>
+</div>
+</div>
+</footer>
+<div class="modal">
+<i class="map-x"></i>
+<img />
+</div>
+<div class="overlay"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/compiled/default-foot.js?qpfau1"></script>
+<script async type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59e622109a756114"></script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6441c0742caf27dc',m:'d25ce852c5680cf8b72a4aa72ae61dbfbbb42f37-1619124913-1800-AehqSSnM9xgTurEVRcuqaioP25T46I/ZNSJp84DQCT5nEzhgKaycdc1Ag/rD+C/avpgMJK3xTfgbhhHLGxcnTDsa6hjOE3zsvUqqJ2Hr5nhIMSUfxH6k+eRtBpHNqN2SM78V0J3iFuzekwNPduk/gf+QmsJKCQBl6qFRmJ/RCf72',s:[0x5593ba3b6f,0x9f06ffef77],}})();</script></body>
+</html>

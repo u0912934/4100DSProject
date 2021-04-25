@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.gunviolencearchive.org/sites/default/files/favicon.png" type="image/png" />
+<meta property="og:description" content="Gun Violence Archive (GVA) is a not for profit corporation formed in 2013 to provide free online public access to accurate information about gun-related violence in the United States. GVA will collect and check for accuracy, comprehensive information about gun-related violence in the U.S. and then post and disseminate it online." />
+<title>Mass Shootings in 2016 | Gun Violence Archive</title>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GunDeaths">
+<meta name="twitter:creator" content="@GunDeaths">
+<meta name="twitter:title" content="Gun Violence Archive">
+<meta name="twitter:description" content="Near real-time tweets of American gun violence incidents. Non-profit. Non-advocacy. Just the facts." <meta name="twitter:image" content="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/images/share-logo.jpg">
+<meta property="og:image" content="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/images/share-logo.jpg" />
+<style type="text/css" media="all">
+@import url("https://www.gunviolencearchive.org/modules/system/system.base.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/system/system.menus.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/system/system.messages.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/system/system.theme.css?qpfau1");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.gunviolencearchive.org/sites/all/modules/contrib/date/date_api/date.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/field/theme/field.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/node/node.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/modules/user/user.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/sites/all/modules/contrib/views/css/views.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/sites/all/modules/contrib/ckeditor/css/ckeditor.css?qpfau1");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.gunviolencearchive.org/sites/all/modules/contrib/ctools/css/ctools.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/sites/all/themes/gva_theme/compiled/default.css?qpfau1");
+@import url("https://www.gunviolencearchive.org/sites/all/themes/gva_theme/compiled/font-awesome.min.css?qpfau1");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.css" media="all" />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js?qpfau1"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js?qpfau1"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/timepicker/1.3.5/jquery.timepicker.min.js?qpfau1"></script>
+<script type="text/javascript" src="https://www.gunviolencearchive.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.gunviolencearchive.org/misc/drupal.js?qpfau1"></script>
+<script type="text/javascript" src="https://www.gunviolencearchive.org/misc/tableheader.js?qpfau1"></script>
+<script type="text/javascript" src="https://www.gunviolencearchive.org/sites/all/modules/contrib/google_analytics/googleanalytics.js?qpfau1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-56234107-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/compiled/default-head.js?qpfau1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gva_theme","theme_token":"1b8NaCVwvXrSgnuedv-sTUFkfIxLoGxM2-YeDOaDl_g","js":{"sites\/all\/themes\/gva_theme\/compiled\/default-foot.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.2.0\/jquery.min.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.11.4\/jquery-ui.min.js":1,"\/\/cdnjs.cloudflare.com\/ajax\/libs\/timepicker\/1.3.5\/jquery.timepicker.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/tableheader.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/gva_theme\/compiled\/default-head.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/gva_theme\/compiled\/default.css":1,"sites\/all\/themes\/gva_theme\/compiled\/font-awesome.min.css":1,"\/\/cdnjs.cloudflare.com\/ajax\/libs\/timepicker\/1.3.5\/jquery.timepicker.min.css":1}},"urlIsAjaxTrusted":{"\/reports\/mass-shooting?page=11\u0026year=2016":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+		<!--//--><![CDATA[//><!--
+		var switchTo5x = true;
+		//--><!]]>
+	</script>
+
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="html not-front not-logged-in no-sidebars page-query page-query-0484b316-f676-44bc-97ed-ecefeabae077">
+<header>
+<div class="row">
+<div class="large-12 columns">
+<div id="header-logo">
+<a href="/">
+<span class="branding-logo"><img src="/sites/all/themes/gva_theme/images/new-logo.jpg" alt="Gun Violence Archive" />
+<span class="logo-text"><i>GUN VIOLENCE</i> ARCHIVE</span></span>
+</a>
+</div>
+<nav id="header-nav">
+<div class="wrapper">
+<div class="region region-header">
+<div id="block-gva-general-header-new-entry" class="block block-gva-general">
+</div>
+<div id="block-gva-general-header-login" class="block block-gva-general">
+<a href="/user/login"><strong>Login</strong></a></div>
+<div id="block-gva-general-header-contact-us" class="block block-gva-general">
+<a href="/contact">Contact Us</a></div>
+<div id="block-gva-general-header-search-button" class="block block-gva-general">
+<div class="search"><a href="/query"><img typeof="foaf:Image" src="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/images/icons/search.png" alt="Search" /><span>Search Database</span></a></div>
+</div>
+<div id="block-gva-general-header-social" class="block block-gva-general">
+<div class="item-list"><ul class="social medium-text-right small-text-left"><li class="first"><a href="https://www.facebook.com/gunviolencearchive" class="facebook" target="_blank">Facebook</a></li>
+<li class="last"><a href="https://twitter.com/gundeaths" class="twitter" target="_blank">Twitter</a></li>
+</ul></div></div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<nav class="top-bar" role="navigation">
+<div id="main-nav-mobile-btn" class="top-bar-title hide-for-large">
+<div class="mobile-btn">
+<span data-responsive-toggle="main-nav" data-hide-for="large">
+<button class="menu-icon light" type="button" data-toggle>MENU</button>
+</span>
+</div>
+</div>
+<div id="main-nav">
+<div class="wrapper">
+<div class="navigation">
+<div class="region region-navigation">
+<div id="block-gva-general-gva-navigation" class="block block-gva-general">
+<ul class="inline-list menu"><li class="first leaf depth-1"><a href="/">Home</a></li>
+<li class="leaf depth-1"><a href="/charts-and-maps" title="">Charts &amp; Maps</a></li>
+<li class="leaf depth-1"><a href="/last-72-hours" title="">Last 72 Hours</a></li>
+<li class="leaf depth-1"><a href="/reports" title="">Reports</a></li>
+<li class="leaf depth-1"><a href="/explainer" title="">Explainer</a></li>
+<li class="expanded has-children depth-1 has-submenu"><a href="/about">About Us</a><ul class="submenu"><li class="first last leaf depth-2"><a href="/methodology">Methodology</a></li>
+</ul>
+</li>
+<li class="leaf depth-1"><a href="/past-tolls" title="">Past Years</a></li>
+<li class="last leaf depth-1"><a href="/congress" title="">Congressional Reports</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<section id="content">
+<div class="row">
+<div class="main-content">
+<div class="small-12 columns">
+<h1 class="border-background">
+<span>Mass Shootings in 2016</span>
+</h1>
+<div class="links-container ">
+<h2 class="element-invisible">Primary tabs</h2><ul class="align-right link-list tabs-primary"><li class="active"><a href="/reports/mass-shooting?year=2016" class="button active">View Results<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="/query/0484b316-f676-44bc-97ed-ecefeabae077/export-csv?year=2016" class="button">Export as CSV</a></li>
+<li><a href="/query/0484b316-f676-44bc-97ed-ecefeabae077/map?year=2016" class="button">Interactive Map</a></li>
+</ul> </div>
+<div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<form action="/reports/mass-shooting?page=11&amp;year=2016" method="post" id="gva-entry-results-limiter" accept-charset="UTF-8"><div><p></p><input type="hidden" name="form_build_id" value="form-lufRO3CM3R313njUpI1oKFHB-ohGqOM5_rzSU_QvGjc" />
+<input type="hidden" name="form_id" value="gva_entry_results_limiter" />
+</div></form><section class="row"><div class="small-12 columns"><table class="responsive sticky-enabled">
+<thead><tr><th column="Base.IncidentID"><a href="/reports/mass-shooting?page=11&amp;year=2016&amp;sort=asc&amp;order=Incident%20ID" title="sort by Incident ID" class="active">Incident ID</a></th><th column="Base.IncidentDate" class="active"><a href="/reports/mass-shooting?page=11&amp;year=2016&amp;sort=asc&amp;order=Incident%20Date" title="sort by Incident Date" class="active">Incident Date<img typeof="foaf:Image" src="https://www.gunviolencearchive.org/misc/arrow-asc.png" width="13" height="13" alt="sort ascending" title="sort ascending" /></a></th><th column="Location.State"><a href="/reports/mass-shooting?page=11&amp;year=2016&amp;sort=asc&amp;order=State" title="sort by State" class="active">State</a></th><th column="Location.CityOrCounty"><a href="/reports/mass-shooting?page=11&amp;year=2016&amp;sort=asc&amp;order=City%20Or%20County" title="sort by City Or County" class="active">City Or County</a></th><th column="Location.Address"><a href="/reports/mass-shooting?page=11&amp;year=2016&amp;sort=asc&amp;order=Address" title="sort by Address" class="active">Address</a></th><th column="Counts.NumberOfParticipantsKilled"><a href="/reports/mass-shooting?page=11&amp;year=2016&amp;sort=asc&amp;order=%23%20Killed" title="sort by # Killed" class="active"># Killed</a></th><th column="Counts.NumberOfParticipantsInjured"><a href="/reports/mass-shooting?page=11&amp;year=2016&amp;sort=asc&amp;order=%23%20Injured" title="sort by # Injured" class="active"># Injured</a></th><th column="Base.IncidentOperations">Operations</th> </tr></thead>
+<tbody>
+<tr class="odd"><td>560782</td><td>May 17, 2016</td><td>South Carolina</td><td>Ravenel</td><td>5360 Savannah Highway</td><td>3</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/560782">View Incident</a></li>
+<li class="1 last"><a href="http://www.walb.com/story/32001315/three-autopsies-scheduled-after-ravenel-mobile-home-park-shooting" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>565244</td><td>May 15, 2016</td><td>Georgia</td><td>Moultrie</td><td>Rossman Dairy Road</td><td>5</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/565244">View Incident</a></li>
+<li class="1 last"><a href="https://www.valdostadailytimes.com/news/state_news/georgia-man-convicted-of-murders-in-shooting-deaths/article_17047526-d3c6-507e-b0fa-371b21ab419c.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>559194</td><td>May 15, 2016</td><td>Indiana</td><td>Evansville</td><td>420 North Garvin Street</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/559194">View Incident</a></li>
+<li class="1 last"><a href="http://www.14news.com/story/31976961/multiple-people-shot-outside-of-evansville-bar" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>559042</td><td>May 14, 2016</td><td>Georgia</td><td>Atlanta</td><td>Cordova and Peoples Street</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/559042">View Incident</a></li>
+<li class="1 last"><a href="https://www.ajc.com/news/news/crime-law/atlanta-police-say-series-of-shootings-that-injure/nrNFr/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>558796</td><td>May 14, 2016</td><td>West Virginia</td><td>Charleston</td><td>2337 Washington St W</td><td>1</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/558796">View Incident</a></li>
+<li class="1 last"><a href="http://www.wvgazettemail.com/article/20170216/GZ0118/170219609" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>557589</td><td>May 11, 2016</td><td>Alabama</td><td>Birmingham</td><td>1400 block of 21st St N</td><td>1</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/557589">View Incident</a></li>
+<li class="1 last"><a href="https://www.al.com/news/birmingham/2018/10/man-sentenced-to-life-in-prison-for-killing-girlfriend-shooting-kids-in-2016.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>557479</td><td>May 11, 2016</td><td>Illinois</td><td>Chicago</td><td>7100 block of South State Street</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/557479">View Incident</a></li>
+<li class="1 last"><a href="http://chicago.suntimes.com/news/1-killed-15-wounded-in-wednesday-shootings-across-chicago/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>555126</td><td>May 8, 2016</td><td>Texas</td><td>Austin</td><td>8600 block of North Lamar</td><td>1</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/555126">View Incident</a></li>
+<li class="1 last"><a href="http://apps.statesman.com/homicides/victim/rigoberto-jose-castillo/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>555873</td><td>May 6, 2016</td><td>Michigan</td><td>Detroit</td><td>12300 block of Gratiot</td><td>1</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/555873">View Incident</a></li>
+<li class="1 last"><a href="http://www.freep.com/story/news/local/michigan/detroit/2016/05/09/multiple-weekend-shootings-detroit/84131718/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>555886</td><td>May 6, 2016</td><td>Alabama</td><td>Montgomery</td><td>1300 block of Clay Street</td><td>1</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/555886">View Incident</a></li>
+<li class="1 last"><a href="http://www.montgomeryadvertiser.com/story/news/crime/2016/05/07/4-shot-clay-st-west-montgomery/84063166/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>554133</td><td>May 6, 2016</td><td>Maryland</td><td>Bethesda</td><td>7101 Democracy Blvd</td><td>3</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/554133">View Incident</a></li>
+<li class="1 last"><a href="http://wjla.com/news/local/family-and-friends-mourn-the-lose-of-shooting-victim-gunned-down-in-aspen-hill" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>553803</td><td>May 5, 2016</td><td>Louisiana</td><td>Shreveport</td><td>300 block of North Thomas Drive</td><td>2</td><td>6</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/553803">View Incident</a></li>
+<li class="1 last"><a href="http://www.shreveporttimes.com/story/news/crime/2016/05/05/two-killed-eight-injured-ambush-style-shooting/83966862/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>554027</td><td>May 5, 2016</td><td>Florida</td><td>Miami</td><td>2108 NW 19th Terrace</td><td>1</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/554027">View Incident</a></li>
+<li class="1 last"><a href="http://www.nbcmiami.com/news/local/1-Killed-3-Injured-in-Allapattah-Shooting-Police-378388331.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>553570</td><td>May 4, 2016</td><td>Minnesota</td><td>Minneapolis</td><td>16th Avenue North and Newton Avenue North</td><td>1</td><td>7</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/553570">View Incident</a></li>
+<li class="1 last"><a href="http://www.startribune.com/hunt-on-for-suspects-in-north-side-gunfire-that-killed-1-wounded-others/378283121/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>551053</td><td>May 1, 2016</td><td>Tennessee</td><td>Murfreesboro</td><td>1955 Old Castle Drive</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/551053">View Incident</a></li>
+<li class="1 last"><a href="http://www.dnj.com/story/news/2016/05/02/shooting-victims-identified/83822272/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>550445</td><td>April 29, 2016</td><td>Missouri</td><td>Saint Louis (Ferguson)</td><td>400 block of N Dade Ave</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/550445">View Incident</a></li>
+<li class="1 last"><a href="http://www.stltoday.com/news/local/crime-and-courts/gunfire-wounds-several-at-home-of-relatives-of-child-fatally/article_c36ac516-e348-58e6-9e6d-c1fde70f98c5.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>550619</td><td>April 29, 2016</td><td>California</td><td>Oakland</td><td>3200 block of San Pablo Avenue</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/550619">View Incident</a></li>
+<li class="1 last"><a href="http://www.mercurynews.com/crime-courts/ci_29834072/west-oakland-shooting-leaves-six-injured-five-by" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>549507</td><td>April 27, 2016</td><td>Louisiana</td><td>Baton Rouge</td><td>4300 Block of Kerrit Dr</td><td>2</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/549507">View Incident</a></li>
+<li class="1 last"><a href="http://www.ksla.com/story/35241743/quad-shooting-in-baton-rouge-leaves-plenty-of-bullets-questions" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>549071</td><td>April 27, 2016</td><td>Mississippi</td><td>Kilmichael</td><td>Pecan Drive</td><td>3</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/549071">View Incident</a></li>
+<li class="1 last"><a href="http://www.wbrc.com/story/31829338/man-charged-in-kilmichael-triple-murder" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>548333</td><td>April 26, 2016</td><td>Maryland</td><td>District Heights (Forestville)</td><td>6500 block of Hil-Mar Drive</td><td>1</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/548333">View Incident</a></li>
+<li class="1 last"><a href="https://www.washingtonpost.com/local/public-safety/one-woman-dead-after-quadruple-shooting-in-prince-georges-county/2016/04/26/f126d52a-0b95-11e6-bfa1-4efa856caf2a_story.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>547639</td><td>April 25, 2016</td><td>Tennessee</td><td>Nashville</td><td>400 Charlotte Avenue</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/547639">View Incident</a></li>
+<li class="1 last"><a href="http://www.tennessean.com/story/news/crime/2016/04/26/teen-shot-critically-injured-bus-station-now-stable/83537760/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>547827</td><td>April 25, 2016</td><td>Florida</td><td>Miami</td><td>1506 Northwest 70th Street</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/547827">View Incident</a></li>
+<li class="1 last"><a href="http://www.miamiherald.com/news/local/crime/article74000507.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>546760</td><td>April 24, 2016</td><td>Virginia</td><td>Halifax</td><td>1055 L P Bailey Memorial Hwy</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/546760">View Incident</a></li>
+<li class="1 last"><a href="http://wric.com/2016/04/26/man-shot-by-deputy-charged-with-shooting-into-vfw-hall/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>547319</td><td>April 24, 2016</td><td>Illinois</td><td>Chicago (Englewood)</td><td>2000 block of West 68th Place</td><td>2</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/547319">View Incident</a></li>
+<li class="1 last"><a href="http://chicago.suntimes.com/news/fire-officials-4-shot-in-west-englewood/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>546818</td><td>April 24, 2016</td><td>Colorado</td><td>Denver</td><td>1400 block of 14th Street</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/546818">View Incident</a></li>
+<li class="1 last"><a href="http://www.9news.com/news/crime/man-charged-in-lodo-shooting-that-injured-3/165080671" target="_blank">View Source</a></li>
+</ul></td> </tr>
+</tbody>
+</table>
+</div></section><h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-first first"><a title="Go to first page" href="/reports/mass-shooting?year=2016">« first</a></li>
+<li class="pager-previous"><a title="Go to previous page" href="/reports/mass-shooting?page=10&amp;year=2016">‹ previous</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-item"><a title="Go to page 8" href="/reports/mass-shooting?page=7&amp;year=2016">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/reports/mass-shooting?page=8&amp;year=2016">9</a></li>
+<li class="pager-item"><a title="Go to page 10" href="/reports/mass-shooting?page=9&amp;year=2016">10</a></li>
+<li class="pager-item"><a title="Go to page 11" href="/reports/mass-shooting?page=10&amp;year=2016">11</a></li>
+<li class="pager-current">12</li>
+<li class="pager-item"><a title="Go to page 13" href="/reports/mass-shooting?page=12&amp;year=2016">13</a></li>
+<li class="pager-item"><a title="Go to page 14" href="/reports/mass-shooting?page=13&amp;year=2016">14</a></li>
+<li class="pager-item"><a title="Go to page 15" href="/reports/mass-shooting?page=14&amp;year=2016">15</a></li>
+<li class="pager-item"><a title="Go to page 16" href="/reports/mass-shooting?page=15&amp;year=2016">16</a></li>
+<li class="pager-next"><a title="Go to next page" href="/reports/mass-shooting?page=12&amp;year=2016">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/reports/mass-shooting?page=15&amp;year=2016">last »</a></li>
+</ul></div></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer>
+<div class="row">
+<div class="large-4 medium-4 medium-uncentered small-centered columns">
+<a class="clearfix display-block" href="/">
+<span class="branding-logo"><img src="/sites/all/themes/gva_theme/images/new-logo.jpg" alt="Gun Violence Archive" />
+<span class="logo-text"><i>GUN VIOLENCE</i> ARCHIVE</span></span>
+</a>
+<div class="region region-footer-left">
+<div id="block-gva-general-footer-address" class="block block-gva-general">
+<div class="address-items row"><div class="small-6 columns"><p>1133 Connecticut Avenue, NW<br />
+Washington, DC 20036<br />
+<a href="/cdn-cgi/l/email-protection#aac3c4dbdfc3d8d3eacddccb84dfd984c9c5c7"><span class="__cf_email__" data-cfemail="cba2a5babea2b9b28bacbdaae5beb8e5a8a4a6">[email&#160;protected]</span></a></p>
+</div>
+<div class="small-6 columns"><p>© Copyright 2021<br />
+Gun Violence Archive<br />
+All rights reserved.</p>
+</div>
+</div></div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="large-4 medium-5 medium-uncentered small-centered columns center-column">
+<div class="region region-footer-center">
+<div id="block-gva-general-footer-navigation" class="block block-gva-general">
+<div class="columns-container"><ul class="column column-0"><li class="first leaf depth-1"><a href="/">Home</a></li>
+<li class="leaf depth-1"><a href="/charts-and-maps" title="">Charts and Maps</a></li>
+<li class="leaf depth-1"><a href="/last-72-hours" title="">Last 72 Hours</a></li>
+<li class="leaf depth-1"><a href="/reports" title="">Reports</a></li>
+<li class="leaf depth-1"><a href="/explainer" title="">Explainer</a></li>
+</ul>
+<ul class="column column-1"><li class="leaf depth-1"><a href="/methodology" title="">Methodology</a></li>
+<li class="leaf depth-1"><a href="/about" title="">About Us</a></li>
+<li class="leaf depth-1"><a href="/past-tolls" title="">Past Years</a></li>
+<li class="leaf depth-1"><a href="/congress" title="">Congressional-Reports</a></li>
+<li class="last leaf depth-1"><a href="/user/login">Log In</a></li>
+</ul>
+</div></div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="large-4 medium-3 medium-uncentered small-centered columns">
+<div class="region region-footer-right">
+<div id="block-gva-general-footer-social" class="block block-gva-general">
+<div class="item-list"><ul class="social medium-text-right small-text-left"><li class="first"><a href="https://www.facebook.com/gunviolencearchive" class="facebook" target="_blank">Facebook</a></li>
+<li class="last"><a href="https://twitter.com/gundeaths" class="twitter" target="_blank">Twitter</a></li>
+</ul></div></div>
+</div>
+</div>
+</div>
+</footer>
+<div class="modal">
+<i class="map-x"></i>
+<img />
+</div>
+<div class="overlay"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://www.gunviolencearchive.org/sites/all/themes/gva_theme/compiled/default-foot.js?qpfau1"></script>
+<script async type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59e622109a756114"></script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'63e87bdbec2927d8',m:'76a61106626113ec49d12fcbe7f142cf688e5aaa-1618188871-1800-Af7rXha/z/KhhQmvt55PWybiE4eh7gHOteZ9uZ9HwYLx4teOCGiuFasHilxPaPnev/eX6kfpr7b0bVNnF4dNLwv678AqlQIHjs7XOEDSaXfAfphZCsMtQ5uDwwbiX+fK9/kNTUOhl1+zHi/A1WU9D9ggOgHCFFgoThoYOP0HNlmP',s:[0x4132eec092,0xae55608a71],}})();</script></body>
+</html>

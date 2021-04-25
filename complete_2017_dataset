@@ -1,0 +1,347 @@
+,ID,Date,State,City/County,Address,Killed,Injured
+0,1017372,"December 31, 2017",Colorado,Littleton (Highlands Ranch),3404 E County Line Rd,2,6
+1,1017422,"December 31, 2017",Illinois,Chicago,2335 Howard St,0,4
+2,1018118,"December 31, 2017",New Jersey,Long Branch,635 Wall St,4,0
+3,1015666,"December 27, 2017",Nevada,Las Vegas,3750 E Bonanza Rd,2,2
+4,1015336,"December 26, 2017",Florida,Miami,NW 18th Ave and 86th Ter,0,5
+5,1013983,"December 24, 2017",Mississippi,Vicksburg,1111 Mulberry Street,0,5
+6,1014052,"December 24, 2017",Alabama,Troy,100 block of Chapman St,1,4
+7,1014971,"December 23, 2017",Louisiana,Eunice,100 block of City Avenue,1,3
+8,1013377,"December 23, 2017",Alabama,Birmingham,3rd Ave N and 9th St N,0,4
+9,1011953,"December 21, 2017",Pennsylvania,Philadelphia,6600 block of Dorel St,1,3
+10,1012704,"December 21, 2017",Louisiana,Lafayette,1500 block of N University Avenue,0,4
+11,1009629,"December 16, 2017",Mississippi,Mc Cool (Mccool),Ferguson Rd,0,4
+12,1008310,"December 15, 2017",California,Pacoima,13041 Jouett Street,0,5
+13,1007054,"December 13, 2017",Ohio,Columbus,200 block of E Barthman Ave,1,3
+14,1006150,"December 12, 2017",Kentucky,Louisville,17th and Gallagher Streets,0,4
+15,1006446,"December 12, 2017",Texas,Garland,1301 Rivercrest Ln,0,4
+16,1004454,"December 9, 2017",Massachusetts,Boston,Proctor St,0,4
+17,1002514,"December 6, 2017",Illinois,Chicago,4620 N Broadway,0,4
+18,1001566,"December 4, 2017",Pennsylvania,Pittsburgh,7200 block of Everton St,2,2
+19,1000479,"December 3, 2017",Tennessee,Memphis,656 Marshall Ave,1,3
+20,999969,"December 2, 2017",Michigan,Detroit,5200 Woodward Avenue,0,4
+21,998843,"November 30, 2017",Michigan,Detroit,11000 block of Gunston,1,4
+22,994323,"November 24, 2017",Mississippi,Brookhaven,119 Martin Street,1,6
+23,995015,"November 24, 2017",Ohio,Cleveland,11618 Buckeye Rd,1,5
+24,991017,"November 18, 2017",Minnesota,Minneapolis,3600 block of N Emerson Ave,0,4
+25,990974,"November 17, 2017",Louisiana,New Iberia,900 Block of Mississippi St,0,4
+26,989838,"November 16, 2017",Georgia,Columbus,1400 block of 15th Street,0,7
+27,988824,"November 14, 2017",California,Richmond,900 Block of View Dr,2,2
+28,987611,"November 14, 2017",California,Corning,17357 Stagecoach Rd,6,12
+29,986236,"November 12, 2017",Indiana,Gary,4601 Melton Rd,0,7
+30,987134,"November 12, 2017",California,Fresno,S Calvin Ave,0,5
+31,986816,"November 12, 2017",Georgia,Atlanta,50 Lower Alabama St,2,2
+32,985582,"November 11, 2017",Texas,Dallas,2532 Martin Luther King Jr Blvd,1,3
+33,985832,"November 11, 2017",North Carolina,Fayetteville,2835 Bragg Blvd,1,5
+34,986092,"November 11, 2017",Louisiana,New Orleans,Forstall St and Burgundy St,1,5
+35,984822,"November 10, 2017",Ohio,Dayton (Trotwood),193 Olive Rd,0,4
+36,984455,"November 9, 2017",Pennsylvania,Philadelphia,1800 block of Ringgold,0,4
+37,980577,"November 5, 2017",Texas,Sutherland Springs,216 4th St,27,20
+38,980269,"November 4, 2017",Texas,Austin,N Lamar Blvd and Masterson Pass,0,4
+39,980192,"November 4, 2017",Ohio,Youngstown,2810 Market St,0,4
+40,980060,"November 4, 2017",California,Santa Monica,1515 Ocean Avenue,1,3
+41,979651,"November 3, 2017",Minnesota,Minneapolis,10th Ave S and E 24th St,0,4
+42,980258,"November 3, 2017",California,Gardena,E 163rd St and S Main St,0,4
+43,980004,"November 3, 2017",New York,Buffalo,147 Roosevelt Ave,0,4
+44,980401,"November 3, 2017",Louisiana,Lacombe,27600 block of Mirmar Street,1,4
+45,975600,"October 29, 2017",Texas,Austin,5500 block of Ave F,1,3
+46,975817,"October 28, 2017",Ohio,Toledo,1327 N Huron St,0,4
+47,974704,"October 28, 2017",Virginia,Petersburg,N Sycamore St and Franklin,1,3
+48,974051,"October 27, 2017",Kentucky,Louisville,1716 Prentice St,0,6
+49,974411,"October 27, 2017",California,San Francisco,1100 block of Fillmore,0,4
+50,966895,"October 23, 2017",California,Clearlake Oaks,13000 block of Anchor Village,2,3
+51,966153,"October 22, 2017",Connecticut,Hartford,Wethersfield Avenue and Elliott Street,0,4
+52,966178,"October 22, 2017",Alabama,Lanett,1606 19th St Sw,2,7
+53,965066,"October 21, 2017",Florida,Tampa,400 block of E Nordica St,0,4
+54,965077,"October 21, 2017",Florida,Jacksonville,164 E Eubanks St,0,4
+55,965756,"October 21, 2017",Tennessee,Nashville,1277 12th Ave S,0,4
+56,965251,"October 21, 2017",Pennsylvania,Chester,1200 block of W Carlas Ln,0,4
+57,962359,"October 18, 2017",Maryland,Edgewood,2111 Emmorton Park Rd,3,3
+58,962155,"October 17, 2017",New York,Brooklyn,181 Martense St,0,4
+59,962623,"October 16, 2017",Mississippi,Meridian,5th Street,1,3
+60,960036,"October 15, 2017",Texas,Houston,6233 Gulfton St,2,2
+61,959126,"October 15, 2017",Arizona,Phoenix,107th Ave and Camelback Rd,1,3
+62,957980,"October 12, 2017",California,Aliso Viejo,6 Asbury Ct,2,2
+63,957562,"October 11, 2017",Ohio,Pedro,15497 SR 93,4,0
+64,956942,"October 10, 2017",California,San Francisco,25th St and Treat Ave,0,4
+65,955268,"October 9, 2017",Texas,Houston,3352 Old Spanish Trail,0,5
+66,954428,"October 7, 2017",Arizona,Phoenix,87th Ave and Thomas Rd,0,4
+67,953156,"October 6, 2017",Illinois,Chicago,8000 block of S Marshfield,0,5
+68,952720,"October 5, 2017",Arizona,Casa Grande,400 block of W 13th Street,4,0
+69,952220,"October 3, 2017",Florida,Miami,2051 NW 65th St,0,4
+70,945990,"October 1, 2017",Kansas,Lawrence,1000 block of Massachusetts St,3,2
+71,946496,"October 1, 2017",Nevada,Las Vegas,3950 Las Vegas Blvd S,59,441
+72,946138,"September 30, 2017",Tennessee,Memphis,800 block of Kerr Avenue,1,3
+73,944448,"September 28, 2017",Louisiana,New Orleans,2001 N Rocheblave St,1,3
+74,942628,"September 26, 2017",Pennsylvania,Philadelphia,100 block of Pastorius St,1,3
+75,942522,"September 26, 2017",Tennessee,Memphis,2531 Chelsea Ave,0,4
+76,942830,"September 26, 2017",Maryland,Baltimore,3200 block of Lyndale Ave,2,2
+77,941144,"September 24, 2017",Maryland,Baltimore,500 block of E. Patapsco Avenue,0,4
+78,940554,"September 24, 2017",Tennessee,Antioch,3890 Pin Hook Rd,1,8
+79,940644,"September 24, 2017",New York,Syracuse,1226 E Fayette St,0,4
+80,941257,"September 24, 2017",New Jersey,Mays Landing,6000 block of Hoover Dr,1,3
+81,939834,"September 23, 2017",California,Bakersfield,818 Real Rd,1,4
+82,940068,"September 23, 2017",Illinois,Danville,Seminary St and Jackson St,0,5
+83,940142,"September 23, 2017",Connecticut,Hartford,1164 Albany Ave,2,2
+84,939482,"September 20, 2017",Indiana,Gary,4300 block of 23rd Ct,0,5
+85,936028,"September 17, 2017",Michigan,Detroit,5000 block of Stanton Street,1,3
+86,935928,"September 17, 2017",Virginia,Petersburg,300 Mistletoe St,1,4
+87,934036,"September 16, 2017",South Carolina,Columbia,920 Lady Street,0,8
+88,932526,"September 13, 2017",Tennessee,Memphis,1000 block of Morehead St,1,5
+89,932181,"September 13, 2017",Washington,Rockford,14626 S Jackson Rd,1,3
+90,932906,"September 13, 2017",Pennsylvania,York,400 block of S Duke St,0,4
+91,932619,"September 13, 2017",Pennsylvania,Philadelphia,3100 block of N 2nd St,0,4
+92,930569,"September 10, 2017",Texas,Plano,1712 West Spring Creek Parkway,9,1
+93,930266,"September 10, 2017",Louisiana,New Orleans,2101 N Claiborne Ave,1,3
+94,931139,"September 9, 2017",Alabama,Selma,Kings Bend Road,0,4
+95,928380,"September 6, 2017",Illinois,Chicago,2700 block of Madison,0,4
+96,927277,"September 4, 2017",Illinois,Bellwood,1000 block of Bellwood Ave,0,4
+97,926766,"September 3, 2017",California,Inglewood,10100 block of S Firmona Ave,2,3
+98,925809,"September 2, 2017",Kentucky,Louisville,8008 Watterson Trl,0,4
+99,925436,"September 2, 2017",Illinois,Chicago,8300 block of S Hermitage,1,3
+100,922184,"August 28, 2017",New Mexico,Clovis,701 N Main St,2,4
+101,921733,"August 27, 2017",California,Sacramento,7760 24th St,1,4
+102,921653,"August 27, 2017",Indiana,Evansville,1127 Chestnut St,1,3
+103,921289,"August 25, 2017",Florida,Gainesville,1600 NE 8th Ave,0,4
+104,920513,"August 24, 2017",Missouri,Saint Louis,10400 block of Balmoral Dr,4,0
+105,918204,"August 22, 2017",Illinois,Chicago,300 block of N Central Ave,0,4
+106,917793,"August 21, 2017",New Jersey,Newark,Fabyan Place,0,4
+107,917820,"August 21, 2017",North Carolina,Whitakers,980 Fishing Creek Rd,4,0
+108,918061,"August 21, 2017",New Jersey,Newark,700 block of S 19th St,1,3
+109,917713,"August 21, 2017",Maryland,Baltimore,Cottage Avenue and Park Heights Avenue,1,3
+110,917838,"August 21, 2017",Tennessee,Memphis,262 Decatur St,0,4
+111,916808,"August 20, 2017",New York,Brooklyn,100th St and Ave M,0,4
+112,916848,"August 20, 2017",Illinois,Chicago,11901 S Loomis St,2,5
+113,916551,"August 19, 2017",Ohio,Cleveland,11143 Superior Ave,1,4
+114,914819,"August 16, 2017",New York,Wyandanch,Merritt Ave and 15th St,0,4
+115,913924,"August 14, 2017",California,North Hollywood,Morrison St and Klump Ave,2,2
+116,912805,"August 13, 2017",Pennsylvania,Philadelphia,39th St and Melon St,0,5
+117,912322,"August 13, 2017",California,Sacramento,4000 Block of Martin Luther King Jr Blvd,0,4
+118,912375,"August 13, 2017",Virginia,Suffolk,8700 block of Quay Rd,0,4
+119,912093,"August 12, 2017",Missouri,Saint Louis,12310 Bellefontaine Rd,1,3
+120,909423,"August 8, 2017",Illinois,Chicago,50 block of E 37th St,1,6
+121,907555,"August 6, 2017",New York,Bronx,Wickham Ave,0,6
+122,907546,"August 6, 2017",New York,Bronx,Unionport Rd,0,4
+123,907857,"August 6, 2017",California,Oakland,1000 block of 106th Avenue,0,7
+124,907247,"August 5, 2017",New Jersey,Lakewood,900 block of Brook Road,0,4
+125,907611,"August 5, 2017",South Carolina,Allendale,300 block of Ellis St,1,3
+126,906568,"August 5, 2017",Florida,Tallahassee,1939 W Tennessee St,1,3
+127,906509,"August 4, 2017",Montana,Lodge Grass,200 block of North Helen Street,3,2
+128,906126,"August 3, 2017",District of Columbia,Washington,3426 18th St NE,1,3
+129,904329,"August 2, 2017",Maryland,Baltimore,900 block of N Broadway,0,4
+130,903853,"August 1, 2017",Illinois,Chicago,800 block of N Monticello Ave,0,4
+131,904106,"August 1, 2017",Washington,Toppenish,8000 Block of Lateral C Rd,0,6
+132,904026,"August 1, 2017",California,Fresno,Mariposa St and A St,0,7
+133,903090,"July 31, 2017",Illinois,Decatur,Jasper St and Main St,0,4
+134,902187,"July 30, 2017",Texas,El Paso,1810 George Dieter Dr,1,3
+135,901549,"July 30, 2017",Virginia,Norfolk,1500 block of Azalea Garden Rd,1,5
+136,901083,"July 29, 2017",New York,Buffalo,200 block of Carl St,1,4
+137,901000,"July 29, 2017",North Carolina,Salisbury,115 W Fisher St,2,3
+138,900963,"July 28, 2017",Delaware,Wilmington,400 block of N Washington St,0,4
+139,900387,"July 27, 2017",Illinois,Chicago,2000 block of E 71st St,1,4
+140,898631,"July 26, 2017",North Carolina,High Point,2111 E. Green Drive,1,6
+141,898448,"July 25, 2017",Florida,Jacksonville,1040 Golfair Boulevard,1,3
+142,896444,"July 23, 2017",Illinois,Chicago,1500 block of East 82nd St,1,3
+143,896889,"July 23, 2017",Louisiana,Baton Rouge,10360 Ave H,0,4
+144,896149,"July 22, 2017",Ohio,Cincinnati,130 E Clifton Ave,0,5
+145,893690,"July 19, 2017",Virginia,Richmond,2300 block of Bethel St,0,5
+146,894504,"July 19, 2017",California,Los Angeles,Imperial Hwy and Broadway,1,3
+147,893726,"July 18, 2017",Wisconsin,Milwaukee,3000 block of N 39th St,0,4
+148,893712,"July 18, 2017",New Jersey,Trenton,Hewitt St and Division St,1,3
+149,893752,"July 18, 2017",Arizona,El Mirage,NW Grand Ave and W Thunderbird Rd,0,4
+150,891291,"July 15, 2017",Pennsylvania,Philadelphia,21st and Fitzwater,1,3
+151,891092,"July 15, 2017",Illinois,Chicago,12200 block of S Throop St,0,4
+152,886564,"July 9, 2017",Virginia,Lawrenceville,500 block of Sturgeon Rd,0,7
+153,886002,"July 8, 2017",Illinois,Alton,700 block of Oakwood Ave,0,4
+154,886220,"July 8, 2017",Ohio,Cincinnati,9917 Capstan Dr,1,8
+155,884764,"July 6, 2017",Mississippi,Meridian,Eighth Ave,0,4
+156,883052,"July 5, 2017",Georgia,Savannah,Jefferson Street and West St. Julian Street,0,4
+157,883282,"July 5, 2017",Illinois,Chicago (Roseland),11000 block of S Eberhart,2,2
+158,883058,"July 5, 2017",Maine,Madison,300 block of Russell Rd,4,1
+159,882665,"July 4, 2017",Florida,Orlando (Pine Castle),501 W Lancaster Rd,0,4
+160,882321,"July 4, 2017",Virginia,Hampton,500 block of Patterson Ave,1,4
+161,883489,"July 4, 2017",North Carolina,Raleigh,105 E South St,1,3
+162,882422,"July 3, 2017",Alabama,Prattville,112 US 82,3,1
+163,881921,"July 3, 2017",Michigan,Pontiac,50 block of Thorpe St,1,3
+164,881700,"July 2, 2017",New Jersey,Jersey City,Wilkinson Avenue,0,4
+165,880738,"July 2, 2017",South Carolina,Greenwood,SC 72 Bypass,0,4
+166,879953,"July 1, 2017",Arkansas,Little Rock,220 W 6th St,0,25
+167,883656,"July 1, 2017",Illinois,Momence,2727 S 13000 Rd E,0,4
+168,880808,"July 1, 2017",New Jersey,Newark,Lincoln Park and Pennsylvania Avenue,2,2
+169,880813,"July 1, 2017",California,Oakland,3200 Humboldt Ave,0,4
+170,879412,"June 30, 2017",New York,Bronx,1650 Grand Concourse,2,6
+171,877295,"June 27, 2017",Illinois,Chicago,200 block of S Lotus,0,5
+172,876010,"June 25, 2017",District of Columbia,Washington,5900 block of Southern Ave SE,0,4
+173,875886,"June 25, 2017",Missouri,Saint Louis,5000 block of Thekla Ave,1,3
+174,874613,"June 24, 2017",Florida,Fort Lauderdale,2335 NW 16th Ct,1,4
+175,875322,"June 24, 2017",New York,New York (Manhattan),114th St and Manhattan Ave,0,5
+176,876076,"June 24, 2017",New Jersey,Willingboro,Pastoral Lane,0,4
+177,873847,"June 22, 2017",Georgia,Atlanta,1100 block of Osborne Street,1,6
+178,870095,"June 18, 2017",Missouri,Saint Louis,1900 block of N 14th St,3,2
+179,870222,"June 18, 2017",District of Columbia,Washington,3100 block of Buena Vista Terrace SE,0,4
+180,869877,"June 18, 2017",Illinois,Chicago,3300 block of W Crystal St,0,4
+181,869968,"June 18, 2017",South Carolina,Myrtle Beach,311 N Ocean Blvd,0,7
+182,869838,"June 17, 2017",Illinois,Chicago,50 block of N Latrobe Ave,0,4
+183,869357,"June 17, 2017",Ohio,Columbus,6252 Busch Blvd,1,4
+184,868042,"June 15, 2017",Virginia,Richmond,4053 Old Brook Road,1,3
+185,868363,"June 15, 2017",New Mexico,La Madera,491 NM-111,5,0
+186,866739,"June 14, 2017",Virginia,Alexandria,420 E Monroe Ave,1,5
+187,868147,"June 14, 2017",Ohio,Canton,14th St NE and Gibbs Ave NE,0,4
+188,866933,"June 14, 2017",California,San Francisco,720 San Bruno,4,2
+189,866412,"June 13, 2017",Maryland,Baltimore,3300 block of Ayrdale Avenue,0,4
+190,866448,"June 13, 2017",Maryland,Baltimore,1200 block of Bonaparte Avenue,2,2
+191,869474,"June 13, 2017",Missouri,Saint Louis (University City),Ferguson Ave and Plymouth Ave,0,4
+192,864743,"June 11, 2017",Illinois,Chicago,3300 block of W Douglas Blvd,0,9
+193,864852,"June 11, 2017",Tennessee,Chattanooga,4272 Bonny Oaks Drive,0,4
+194,865371,"June 11, 2017",Texas,Houston,505 Cypress Station Dr,0,4
+195,865186,"June 10, 2017",Tennessee,Memphis,571 East Street,0,4
+196,864370,"June 9, 2017",Texas,Fort Worth,East Davis Avenue and New York Avenue,2,5
+197,863075,"June 8, 2017",Louisiana,New Orleans,3650 Franklin Ave,0,6
+198,861307,"June 6, 2017",Utah,Sandy,2232 Alta Canyon Drive,3,2
+199,859875,"June 5, 2017",Florida,Orlando,2427 Forsyth Rd,6,0
+200,858810,"June 3, 2017",Missouri,Saint Louis,1600 Block of Union Blvd,2,2
+201,858719,"June 3, 2017",Louisiana,New Orleans,3717 Tulane Ave,3,2
+202,858877,"June 2, 2017",California,Los Angeles,89th St and Broadway,1,3
+203,858378,"June 2, 2017",Texas,Laredo,5301 McPherson Rd,2,3
+204,857443,"June 1, 2017",Missouri,Saint Louis,Beacon Ave and Lillian Ave,3,1
+205,855764,"May 30, 2017",Ohio,Middletown,1200 Elliott Dr,1,3
+206,855113,"May 29, 2017",Kentucky,Louisville,231 Witherspoon St,1,3
+207,853901,"May 28, 2017",Alabama,Phenix City,100 block of 6th Street South,0,12
+208,853796,"May 28, 2017",New Jersey,Paterson,86 Main Street,1,5
+209,853920,"May 28, 2017",Mississippi,Moss Point,6103 Hwy. 63,0,5
+210,853032,"May 27, 2017",New York,New York (Manhattan),318 W 14th St,0,4
+211,853119,"May 27, 2017",District of Columbia,Washington,100 block of Q St NW,1,7
+212,853756,"May 27, 2017",Mississippi,Bogue Chitto,2871 Lee Dr,8,1
+213,852676,"May 26, 2017",Florida,Miami,2730 NW 167th St,0,4
+214,848680,"May 21, 2017",Iowa,Des Moines,4300 Beaver Dr,1,3
+215,849215,"May 21, 2017",Arizona,Mesa,441 N Val Vista Dr,0,4
+216,848292,"May 20, 2017",Pennsylvania,Philadelphia,2100 block of W Huntingdon St,0,10
+217,845364,"May 16, 2017",South Carolina,Ruffin,21785 Lowcountry Hwy,3,1
+218,843078,"May 14, 2017",Arkansas,Jonesboro,311 S Main St,1,6
+219,843045,"May 14, 2017",Illinois,Dolton,14112 Chicago Road,0,5
+220,843172,"May 14, 2017",Florida,Avon Park,Hal McRae Blvd and Delaney Ave,0,5
+221,843590,"May 14, 2017",Texas,Fort Worth,8600 block of Calmont Ave,0,4
+222,840339,"May 10, 2017",New Jersey,Trenton,300 block of Centre St,1,3
+223,839846,"May 9, 2017",Kansas,Kansas City,1900 block of S. Boeke,3,1
+224,838272,"May 7, 2017",Illinois,Chicago,2600 block of 46th Pl,2,8
+225,835961,"May 4, 2017",Michigan,Flint,600 block of Copeman Boulevard,1,3
+226,834832,"May 2, 2017",Florida,Jacksonville,1566 West 24th Street,1,3
+227,833152,"May 1, 2017",Texas,Dallas,3200 block of Reynolds Ave,2,3
+228,832679,"April 30, 2017",California,San Diego,9080 Judicial Dr,2,6
+229,832528,"April 30, 2017",Kansas,Topeka,4104 SW 28th,4,1
+230,833128,"April 30, 2017",Florida,Jacksonville,1200 Ken Knight Dr N,0,5
+231,832309,"April 30, 2017",South Carolina,Loris,268 N Sea Green Rd,1,5
+232,835459,"April 29, 2017",California,Los Angeles (Boyle Heights),Murchison St and Lancaster Ave,1,3
+233,832290,"April 29, 2017",California,Sacramento,3800 block of 26th Avenue,0,5
+234,831800,"April 29, 2017",California,Whittier,10000 block of Carmentia Rd,1,5
+235,831667,"April 29, 2017",Maryland,Germantown,12839 Kitchen House Way,1,3
+236,834788,"April 29, 2017",California,Compton,2000 Block of N Nestor Ave,0,4
+237,832063,"April 29, 2017",Virginia,Virginia Beach,200 block of 18th St,0,4
+238,831201,"April 28, 2017",Pennsylvania,Chester,5 E 21st St,0,4
+239,830984,"April 27, 2017",New Jersey,Newark,1100 block of S Orange Ave,1,3
+240,829073,"April 26, 2017",Florida,Miami,SW 264th St and 139th Ave,0,4
+241,825694,"April 21, 2017",Florida,Palm Bay,2500 block of Vernon Dr,2,2
+242,825111,"April 20, 2017",Kentucky,Louisville,700 block of East Jacob Street,0,4
+243,821667,"April 16, 2017",California,Vallejo,110 Calhoun Street,0,4
+244,821723,"April 16, 2017",North Carolina,Elizabeth City,611 S Martin St,0,4
+245,821371,"April 16, 2017",Ohio,Columbus,1710 Cleveland Av,0,9
+246,821640,"April 15, 2017",Illinois,Rock Falls,311 W  2nd St,0,4
+247,821055,"April 15, 2017",Pennsylvania,Philadelphia,5900 block of Hammond St,0,4
+248,820565,"April 15, 2017",Indiana,Indianapolis,300 block of S Meridian St,0,4
+249,821400,"April 15, 2017",Alabama,Birmingham,1480 Center Point Pkwy,0,6
+250,821651,"April 15, 2017",Illinois,Harvey,14600 block of Myrtle Avenue,0,4
+251,822750,"April 15, 2017",California,Banning,900 block of N Allen St,0,4
+252,818932,"April 13, 2017",Georgia,Atlanta,30 Anderson Ave SW,1,3
+253,815227,"April 9, 2017",Texas,San Antonio,4000 block of Moss Spring Dr,1,3
+254,815246,"April 9, 2017",Indiana,Fort Wayne,9439 Lima Rd,1,3
+255,813877,"April 7, 2017",North Carolina,Hickory,1423 29th Ave Dr NE,3,1
+256,813821,"April 7, 2017",Texas,Houston,3829 Mount Pleasant St,5,0
+257,813943,"April 7, 2017",Minnesota,Saint Paul,1600 block of English St,4,1
+258,814094,"April 7, 2017",Illinois,Chicago,5600 block of W Lake St,1,5
+259,813028,"April 6, 2017",Louisiana,Lake Charles,2000 block of Tulip St,1,3
+260,810756,"April 3, 2017",Pennsylvania,Philadelphia,1100 block of W Stiles St,3,1
+261,811089,"April 3, 2017",Texas,Lubbock,5401 Ave Q,0,7
+262,809978,"April 2, 2017",Illinois,Chicago,3500 block of W Van Buren St,2,4
+263,809683,"April 2, 2017",Iowa,Des Moines,2500 Martin Luther King Jr. Parkway,0,5
+264,809815,"April 1, 2017",California,Pittsburg,100 block of Madoline Street,0,5
+265,809048,"April 1, 2017",Florida,Tampa,219 S Howard Ave,1,4
+266,809499,"April 1, 2017",Oklahoma,Oklahoma City,1200 block of N Woodward Avenue,2,3
+267,807618,"March 30, 2017",Illinois,Chicago,2704 E 75th St,4,0
+268,804115,"March 27, 2017",Florida,Sanford,209 Hays Dr,2,4
+269,803689,"March 26, 2017",Ohio,Cleveland,E 75th St,2,2
+270,803822,"March 26, 2017",Texas,Houston,5619 Aldine Bender Rd,2,4
+271,803054,"March 26, 2017",Ohio,Cincinnati,4601 Kellogg Ave,2,15
+272,802926,"March 25, 2017",Tennessee,Knoxville,Minnesota Ave,1,4
+273,803460,"March 25, 2017",Michigan,Detroit,8443 Grand River Ave,1,3
+274,802837,"March 25, 2017",Ohio,Cleveland,E 79th St and Woodland Ave,2,2
+275,802425,"March 24, 2017",California,Fresno,300 block of South Villa Avenue,1,4
+276,802240,"March 24, 2017",Missouri,Saint Louis,5100 block of Palm St,1,6
+277,800363,"March 22, 2017",Wisconsin,Rothschild,1133 E Grand Ave,5,0
+278,797553,"March 19, 2017",Kentucky,Louisville,1512 Portland Avenue,1,5
+279,797125,"March 18, 2017",Michigan,Detroit,16000 block of Rutherford,3,2
+280,794468,"March 15, 2017",Louisiana,Metairie,2508 Pasadena Ave,3,1
+281,791298,"March 10, 2017",Illinois,Chicago,123 E 51st St,2,2
+282,791274,"March 10, 2017",Louisiana,New Orleans (Gentilly),4200 block of Touro St,3,1
+283,789798,"March 7, 2017",Illinois,Chicago,W 76th St and S May St,0,4
+284,789424,"March 5, 2017",Georgia,Columbus,600 block of 32nd Street,0,4
+285,787875,"March 4, 2017",Kansas,Topeka,SE Bellview Ave and SE 23rd St,1,4
+286,787801,"March 4, 2017",California,Sacramento,2500 block of 33rd St,0,4
+287,786876,"March 3, 2017",Pennsylvania,Philadelphia,7165 Germantown Ave,0,4
+288,787435,"March 3, 2017",California,Riverside,8300 block of Trey Ave,0,5
+289,785262,"February 28, 2017",Ohio,Cincinnati,1700 of Casey Dr,0,6
+290,783963,"February 27, 2017",Virginia,Newport News,11810 Fountain Way,0,4
+291,783623,"February 26, 2017",Indiana,Gary,1700 Grant St,1,4
+292,783102,"February 25, 2017",Ohio,Warren,1564 Niles Cortland Rd SE,2,3
+293,783090,"February 25, 2017",Florida,Jacksonville,3604 Moncrief Rd,1,4
+294,780792,"February 22, 2017",New York,Rochester,191 Genesee St,0,4
+295,780036,"February 21, 2017",Ohio,Cleveland,16700 Lorain Ave,0,4
+296,779582,"February 21, 2017",Mississippi,Toomsuba,Butts Road,4,0
+297,778941,"February 20, 2017",Ohio,Cleveland,1082 East 105th Street,0,5
+298,778182,"February 19, 2017",Virginia,Norfolk,Church Street and East Virginia Beach Blvd,1,3
+299,777876,"February 18, 2017",Pennsylvania,Philadelphia,1 block of N Conestoga,0,4
+300,777410,"February 18, 2017",Indiana,South Bend,1000 block of Yukon St,1,3
+301,775903,"February 15, 2017",California,Salinas,30 Soledad Street,0,4
+302,775531,"February 15, 2017",Illinois,Chicago,3949 South Albany Avenue,3,2
+303,773002,"February 12, 2017",Missouri,Caruthersville,908 Truman Blvd,1,6
+304,773162,"February 12, 2017",New York,Newburgh,253 South William Street,1,3
+305,773908,"February 12, 2017",Florida,Greenville,Church Ave and Obadiah St,0,5
+306,772753,"February 11, 2017",Illinois,Chicago,100 block of N Mayfield,1,3
+307,772989,"February 11, 2017",Tennessee,Savannah,Clifton Road and Midway Drive,0,4
+308,772067,"February 10, 2017",Louisiana,New Orleans,2nd St and Dryades St,1,5
+309,771826,"February 9, 2017",Mississippi,Jackson,3150 Robinson Road,4,0
+310,769889,"February 8, 2017",Ohio,Cleveland,16379 Euclid Ave,1,4
+311,769511,"February 7, 2017",South Carolina,Columbia,5500 block of Fairfield Road,0,4
+312,769859,"February 7, 2017",Arkansas,Little Rock,25 Par Drive,1,4
+313,768243,"February 6, 2017",Mississippi,Yazoo City,11th Street,4,0
+314,765559,"January 31, 2017",Tennessee,Memphis,1576 S White Station Rd,0,4
+315,765153,"January 31, 2017",District of Columbia,Washington,2900 block of Martin Luther King Jr Ave SE,0,4
+316,764020,"January 30, 2017",Minnesota,Minneapolis (Crystal),5410 Lakeland Ave N,0,4
+317,763313,"January 29, 2017",Louisiana,Shreveport,6363 Hearne Ave,1,4
+318,1025158,"January 27, 2017",Washington,Bremerton,Tenino Dr W,4,0
+319,761973,"January 27, 2017",Tennessee,Brownsville,221 Morgan St,0,10
+320,760482,"January 26, 2017",Georgia,Albany,1510 Maryland Drive,2,3
+321,760259,"January 25, 2017",Illinois,Chicago,500 block of E 75th St,0,6
+322,757158,"January 22, 2017",Texas,Manvel,200 block of Oak Shore Dr,3,2
+323,757032,"January 22, 2017",Illinois,Chicago (Englewood),1800 block of W 63rd,0,4
+324,757001,"January 22, 2017",Georgia,Atlanta,2841 Greenbriar Pkwy SW,3,1
+325,756801,"January 21, 2017",Georgia,Jonesboro,6510 Tara Blvd,0,6
+326,756526,"January 21, 2017",Florida,Boynton Beach,500 NE 2nd St,0,5
+327,756504,"January 21, 2017",Tennessee,Memphis,500 block of Delta Road,2,2
+328,757955,"January 20, 2017",Mississippi,Como,Smart Road,1,4
+329,756015,"January 20, 2017",California,Fresno,4700 block of E Montecito Ave,0,4
+330,752756,"January 16, 2017",Texas,Houston,8535 Martin Luther King Boulevard,0,4
+331,752222,"January 16, 2017",Florida,Miami,6011 NW 32nd Ave,0,8
+332,752249,"January 15, 2017",Colorado,Capulin,County Road Y,3,1
+333,751367,"January 15, 2017",Mississippi,Magnolia,6000 block of Church Road,1,4
+334,749361,"January 12, 2017",Missouri,Kansas City,8607 E 61st Terrace,3,2
+335,749769,"January 12, 2017",California,Salinas,500 block of Sunrise St,2,2
+336,748152,"January 11, 2017",New Jersey,Newark,Hawkins Street and Christie Street,1,3
+337,748348,"January 11, 2017",Illinois,Chicago,4200 block of S Talman,1,3
+338,745236,"January 7, 2017",Michigan,Flint,2500 block of Churchill Ave,1,3
+339,744799,"January 6, 2017",California,Pasadena,100 block of W Claremont St,2,2
+340,743995,"January 6, 2017",Florida,Fort Lauderdale,100 Terminal Dr,5,6
+341,742542,"January 4, 2017",California,Fontana,14520 Village Drive,3,1
+342,742001,"January 3, 2017",Texas,Allen,500 block of Hawthorne Drive,0,4
+343,743282,"January 1, 2017",Mississippi,Winstonville,114 North Greyer Street,0,5
+344,739451,"January 1, 2017",Texas,Dallas,9220 Skillman Street,1,3
+345,739766,"January 1, 2017",Florida,Miami,8000 block of NW 14th Ave,0,7
